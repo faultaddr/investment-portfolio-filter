@@ -1,4 +1,4 @@
-#!
+#!/usr/bin/python
 #-*-coding=utf-8-*-
 import scipy.spatial.distance as spd
 import numpy as np

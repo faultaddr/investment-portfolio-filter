@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # -*- coding:utf-8 -*-
 from BeautifulSoup import BeautifulSoup as bs
 import urllib2
