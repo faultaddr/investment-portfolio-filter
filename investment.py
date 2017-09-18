@@ -38,6 +38,7 @@ class bag():
                     i = i -1
         return select
 
-if __name__ =='__main__':
-    sort_instance = bag([2,2,6,5,4,1,2,7,5,7,4],[6,3,5,4,6,1,4,7,3,6,1])#金额，收益率初始化
-    sort_instance.find_which(30)#定义用户拥有的总钱数
+# usage
+# if __name__ =='__main__':
+#     sort_instance = bag([2,2,6,5,4,1,2,7,5,7,4],[6,3,5,4,6,1,4,7,3,6,1])#金额，收益率初始化
+#     sort_instance.find_which(30)#定义用户拥有的总钱数
