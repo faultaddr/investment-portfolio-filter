@@ -6,5 +6,7 @@ import scipy.spatial.distance as spd
 import numpy as np
 
 def to_old():
+    d
 
 def to_new():
+    d
