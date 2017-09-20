@@ -29,7 +29,7 @@ class bag():
         while i >=1:
             while j>=1:
                 if result[i-1][j]!=result[i][j]:#说明当前行的东西拿了
-                    select.append(i)
+                    select.append(i-1)
                     #print '产品'+ str(i)
                     j = j -self.quota[i-1]
                     i = i - 1
