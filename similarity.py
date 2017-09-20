@@ -17,7 +17,7 @@ def filter_o(id,users,history,K):
     temp[0][id] = 1
     nonz = np.argwhere(temp[0]<=0.752)[:,0]
     re = np.argsort(temp[0])[:K]
-    return [re,nonz]
+    return re, nonz
 
 # 新用户协同过滤
 # 输入一个新用户属性，老用户全部属性，K
@@ -26,7 +26,7 @@ def filter_n(new,users,K):
     temp = spd.cdist(np.array([new]),users,'cosine') # cdist is dissimilarity
     nonz = np.argwhere(temp[0]<=0.01)[:,0]
     re = np.argsort(temp[0])[:K]
-    return [re,nonz]
+    return re, nonz
 
 def picture(index, users):
     selected = users.iloc[index]
@@ -53,7 +53,7 @@ def picture(index, users):
     plt.close()
 
 def to_old(u_id,money,history,production):
-    [Simi_users, Group] = filter_o(u_id,history,int(len(history)*0.15)) 
+    Simi_users, Group = filter_o(u_id,history,int(len(history)*0.15)) 
     buy_set = set(np.argwhere(history[u_id]==1)[:,0])
     unbuy_set = set()
     for user in Simi_users:
@@ -62,14 +62,13 @@ def to_old(u_id,money,history,production):
                 unbuy_set.add(history[user][index])
     unbuy_index = list(unbuy_set)
     unbuy_rate = [production[i][1] for i in unbuy_index]
-    unbuy_money = [production[i][3] for i in unbuy_index]
-    sort_instance = bag(unbuy_money,unbuy_rate)
-    index = sort_instance.find_which(money)
-    return [[unbuy_index[i] for i in index], Group]
+    unbuy_price = [production[i][3] for i in unbuy_index]
+    dic, total = bag([unbuy_price,unbuy_rate],money)
+    bag()
+    return [[unbuy_index[i], dic[i]] for i in dic.keys()], total, Group
     
-
 def to_new(new,money,users,history,production):
-    [Simi_users, Group] = filter_n(new,users,int(len(users)*0.15))
+    Simi_users, Group = filter_n(new,users,int(len(users)*0.15))
     unbuy_set = set()
     for user in Simi_users:
         for index in range(len(history[user])):
@@ -77,7 +76,7 @@ def to_new(new,money,users,history,production):
                 unbuy_set.add(history[user][index])
     unbuy_index = list(unbuy_set)
     unbuy_rate = [production[i][1] for i in unbuy_index]
-    unbuy_money = [production[i][3] for i in unbuy_index]
-    sort_instance = bag(unbuy_money,unbuy_rate)
-    index = sort_instance.find_which(money)
-    return [[unbuy_index[i] for i in index], Group]
+    unbuy_price = [production[i][3] for i in unbuy_index]
+    sort_instance = bag([unbuy_price,unbuy_rate],money)
+    dic, total = sort_instance.find_which(money)
+    return [[unbuy_index[i], dic[i]] for i in dic.keys()], total, Group

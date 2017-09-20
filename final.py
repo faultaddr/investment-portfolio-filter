@@ -15,14 +15,16 @@ if __name__ =='__main__':
     money = int(sys.argv[2])
     if sys.argv[1]=='new':
         new = np.loadtxt(u'new_u.txt')
-        [index, Group] = to_new(new,money,us,history,production)
+        index, total, Group = to_new(new,money,us,history,production)
         with open(u'new.txt','w') as f:
+            f.write(str(total)+'\n')
             for i in index:
-                f.write(str(i)+'\n')
+                f.write(str(i[0])+' '+str(i[1])+'\n')
     else:
         u_id = sys.argv[3]
-        [index, Group] = to_old(u_id,money,history,production)
+        index, total, Group = to_old(u_id,money,history,production)
         with open(u'old.txt','w') as f:
+            f.write(str(total)+'\n')
             for i in index:
-                f.write(str(i)+'\n')
+                f.write(str(i[0])+' '+str(i[1])+'\n')
     picture(Group, users)
