@@ -14,6 +14,7 @@ def bag(items,money):
             if full[j]<full[j-items[0][i]]+items[0][i]*items[1][i]:
                 full[j] = full[j-items[0][i]]+items[0][i]*items[1][i]
                 last[j] = i
+    result = money
     dic = {}
     while money>0 and last[money]>=0:
         if last[money] not in dic.keys():
@@ -21,7 +22,7 @@ def bag(items,money):
         else:
             dic[last[money]] = dic[last[money]] + 1
         money = money - items[0][last[money]]
-    return dic, full[money]
+    return dic, full[result]*0.01
     
 # usage
 # if __name__ =='__main__':

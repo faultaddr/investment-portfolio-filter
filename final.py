@@ -22,7 +22,7 @@ if __name__ =='__main__':
                 f.write(str(i[0])+' '+str(i[1])+'\n')
     else:
         u_id = sys.argv[3]
-        index, total, Group = to_old(u_id,money,history,production)
+        index, total, Group = to_old(int(u_id),money,us,history,production)
         with open(u'old.txt','w') as f:
             f.write(str(total)+'\n')
             for i in index:
