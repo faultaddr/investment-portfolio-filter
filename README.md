@@ -1,4 +1,7 @@
 # Investment-portfolio-filter(实训大作业)
+## 流程图
+![LC](LC.jpg)
+
 
 ## 用户画像
 ### 性别
