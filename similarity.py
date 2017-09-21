@@ -58,7 +58,7 @@ def picture(index, users, production, history):
             buy_set.add(j)
     buy_set = list(buy_set)
     buy = production.iloc[buy_set]
-    buy[buy.columns[0]].plot.hist(title="Productions",color='#0add08')
+    buy[buy.columns[0]].plot.hist(title="Productions",color='#0add08',bins=[1,1.5,2,2.5,3,3.5,4,4.5,5,5.5])
     plt.savefig("Productions.jpg")
     plt.close()
     
