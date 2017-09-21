@@ -1,0 +1,850 @@
+2017-09-20 00:57:06,011 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22036 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 00:57:06,015 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 00:57:06,016 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 00:57:09,538 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.87 seconds (JVM running for 4.797)
+2017-09-20 00:59:06,103 INFO (UserController.java:54)- -->login-ing--please wait
+2017-09-20 00:59:10,050 INFO (UserController.java:48)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 01:00:20,546 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20624 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 01:00:20,548 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 01:00:20,549 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 01:00:23,384 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.026 seconds (JVM running for 3.555)
+2017-09-20 02:03:45,089 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16368 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:03:45,091 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:03:45,092 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:03:48,445 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.577 seconds (JVM running for 4.088)
+2017-09-20 02:07:15,343 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 5228 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:07:15,345 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:07:15,346 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:07:18,160 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.061 seconds (JVM running for 3.61)
+2017-09-20 02:08:17,739 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19544 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:08:17,741 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:08:17,742 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:08:20,491 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.947 seconds (JVM running for 3.461)
+2017-09-20 02:08:26,164 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:10:30,896 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17552 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:10:30,898 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:10:30,898 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:10:33,663 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.972 seconds (JVM running for 3.454)
+2017-09-20 02:10:40,827 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:12:16,700 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:23:51,454 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 6968 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:23:51,473 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:23:51,474 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:24:16,118 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15904 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:24:16,120 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:24:16,120 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:24:19,663 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.775 seconds (JVM running for 4.286)
+2017-09-20 02:24:55,686 INFO (UserController.java:54)- -->login-ing--please wait
+2017-09-20 02:25:42,699 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:41:02,786 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21360 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:41:02,789 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:41:02,789 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:41:06,192 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.671 seconds (JVM running for 4.368)
+2017-09-20 02:41:43,507 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:42:46,459 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16188 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:42:46,461 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:42:46,462 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:42:50,367 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.204 seconds (JVM running for 4.904)
+2017-09-20 02:42:53,318 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:44:15,662 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 8172 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:44:15,665 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:44:15,665 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:44:19,246 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.826 seconds (JVM running for 4.507)
+2017-09-20 02:45:20,571 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:49:33,562 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:56:02,989 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19928 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:56:02,991 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:56:02,992 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:56:06,228 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.557 seconds (JVM running for 4.178)
+2017-09-20 02:56:13,092 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:57:28,620 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21592 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:57:28,622 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:57:28,622 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:57:32,021 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.619 seconds (JVM running for 4.179)
+2017-09-20 02:57:39,349 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 02:59:10,963 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21548 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 02:59:10,965 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 02:59:10,965 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 02:59:14,622 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.861 seconds (JVM running for 4.546)
+2017-09-20 02:59:22,687 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:00:31,255 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 13536 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:00:31,257 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:00:31,257 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:00:34,531 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.508 seconds (JVM running for 4.046)
+2017-09-20 03:00:41,267 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:01:08,426 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23348 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:01:08,428 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:01:08,428 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:01:12,863 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.781 seconds (JVM running for 5.617)
+2017-09-20 03:01:24,745 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:02:01,138 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21032 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:02:01,141 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:02:01,142 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:02:04,340 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.475 seconds (JVM running for 4.026)
+2017-09-20 03:02:09,326 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:02:44,240 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 12932 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:02:44,241 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:02:44,242 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:02:47,703 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.696 seconds (JVM running for 4.459)
+2017-09-20 03:02:51,927 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:04:55,604 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19720 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:04:55,606 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:04:55,606 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:04:58,628 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.224 seconds (JVM running for 3.809)
+2017-09-20 03:05:04,747 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:05:32,167 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17484 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:05:32,169 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:05:32,170 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:05:35,520 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.579 seconds (JVM running for 4.312)
+2017-09-20 03:05:45,451 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:07:20,140 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 5192 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:07:20,142 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:07:20,143 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:07:22,818 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.884 seconds (JVM running for 3.391)
+2017-09-20 03:07:31,323 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:11:01,775 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14576 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:11:01,777 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:11:01,777 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:11:05,064 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.526 seconds (JVM running for 4.084)
+2017-09-20 03:11:14,452 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:12:12,484 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 884 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:12:12,487 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:12:12,487 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:12:17,047 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.904 seconds (JVM running for 5.626)
+2017-09-20 03:14:18,986 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:16:33,383 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 12596 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:16:33,385 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:16:33,386 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:16:36,612 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.434 seconds (JVM running for 4.011)
+2017-09-20 03:16:45,022 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:17:28,510 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 6792 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:17:28,511 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:17:28,512 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:17:33,403 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 5.208 seconds (JVM running for 5.943)
+2017-09-20 03:17:36,778 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:17:47,937 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17532 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:17:47,939 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:17:47,939 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:17:51,203 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.487 seconds (JVM running for 4.125)
+2017-09-20 03:18:20,987 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20644 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:18:20,988 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:18:20,989 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:18:25,410 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.647 seconds (JVM running for 5.179)
+2017-09-20 03:18:51,497 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:19:31,953 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:19:39,902 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21748 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:19:39,904 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:19:39,904 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:19:43,412 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.859 seconds (JVM running for 4.484)
+2017-09-20 03:19:50,401 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:20:16,090 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20080 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:20:16,092 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:20:16,092 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:20:21,338 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 5.474 seconds (JVM running for 6.096)
+2017-09-20 03:20:52,308 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 03:21:51,365 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22172 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 03:21:51,367 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 03:21:51,367 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 03:21:54,950 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.831 seconds (JVM running for 4.388)
+2017-09-20 03:22:03,142 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 10:44:50,762 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 10:47:34,142 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21668 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 10:47:34,145 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 10:47:34,146 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 10:47:38,418 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.611 seconds (JVM running for 5.574)
+2017-09-20 10:47:42,721 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 10:48:35,675 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19344 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 10:48:35,677 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 10:48:35,677 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 10:48:39,986 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.554 seconds (JVM running for 5.226)
+2017-09-20 10:48:43,149 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 10:49:57,757 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 11840 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 10:49:57,759 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 10:49:57,759 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 10:50:01,069 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.545 seconds (JVM running for 4.148)
+2017-09-20 10:50:07,883 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 10:50:48,348 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24572 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 10:50:48,350 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 10:50:48,350 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 10:50:51,855 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.852 seconds (JVM running for 4.463)
+2017-09-20 10:50:58,920 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 10:54:56,681 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14576 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 10:54:56,684 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 10:54:56,685 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 10:55:00,733 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.383 seconds (JVM running for 5.051)
+2017-09-20 10:55:14,481 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 10:56:49,429 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23416 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 10:56:49,432 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 10:56:49,432 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 10:56:52,859 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.705 seconds (JVM running for 4.352)
+2017-09-20 10:57:58,892 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:01:32,666 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 8784 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:01:32,668 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:01:32,668 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:01:35,899 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.456 seconds (JVM running for 4.056)
+2017-09-20 11:02:17,956 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:05:37,252 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24328 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:05:37,254 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:05:37,254 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:05:40,946 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.923 seconds (JVM running for 4.636)
+2017-09-20 11:05:47,860 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:08:12,304 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21668 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:08:12,306 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:08:12,306 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:08:15,974 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.907 seconds (JVM running for 4.517)
+2017-09-20 11:08:23,094 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:08:42,838 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22420 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:08:42,841 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:08:42,841 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:08:46,279 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.694 seconds (JVM running for 4.488)
+2017-09-20 11:09:08,193 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:09:36,284 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22568 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:09:36,286 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:09:36,287 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:09:40,300 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.294 seconds (JVM running for 5.046)
+2017-09-20 11:09:48,385 INFO (UserController.java:54)- -->login-ing--please wait
+2017-09-20 11:09:58,616 INFO (UserController.java:48)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 11:11:16,721 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24260 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:11:16,723 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:11:16,723 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:11:20,359 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.904 seconds (JVM running for 4.603)
+2017-09-20 11:11:26,746 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:11:47,838 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22800 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:11:47,840 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:11:47,841 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:11:51,459 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.867 seconds (JVM running for 4.528)
+2017-09-20 11:11:58,775 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:34:19,977 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14932 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:34:19,979 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:34:19,979 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:34:23,937 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.279 seconds (JVM running for 5.016)
+2017-09-20 11:34:34,941 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:36:15,965 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24560 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:36:15,968 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:36:15,968 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:36:19,031 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.304 seconds (JVM running for 3.911)
+2017-09-20 11:36:31,396 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:37:05,837 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 13792 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:37:05,841 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:37:05,842 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:37:09,581 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.04 seconds (JVM running for 4.821)
+2017-09-20 11:37:12,768 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:38:22,265 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18772 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:38:22,268 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:38:22,268 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:38:26,566 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.623 seconds (JVM running for 5.272)
+2017-09-20 11:38:31,378 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:38:50,384 INFO (UserController.java:54)- -->login-ing--please wait
+2017-09-20 11:38:52,601 INFO (UserController.java:48)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 11:39:15,617 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:41:48,726 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18672 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:41:48,728 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:41:48,729 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:41:52,670 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.21 seconds (JVM running for 5.004)
+2017-09-20 11:42:00,117 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 11:43:59,777 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21628 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 11:43:59,780 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 11:43:59,781 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 11:44:03,983 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.538 seconds (JVM running for 5.415)
+2017-09-20 11:44:11,550 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:07:46,724 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15240 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:07:46,726 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:07:46,727 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:07:50,021 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.537 seconds (JVM running for 4.112)
+2017-09-20 12:07:59,699 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:08:00,685 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:08:01,595 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:08:02,308 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:10:28,084 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22216 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:10:28,087 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:10:28,089 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:10:31,923 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.094 seconds (JVM running for 4.935)
+2017-09-20 12:10:39,349 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:11:37,570 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15228 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:11:37,573 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:11:37,573 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:11:41,394 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.065 seconds (JVM running for 5.035)
+2017-09-20 12:11:45,124 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:12:38,396 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25256 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:12:38,429 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:12:38,430 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:12:41,776 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.661 seconds (JVM running for 4.383)
+2017-09-20 12:12:49,594 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:13:09,657 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20676 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:13:09,659 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:13:09,660 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:13:13,955 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.611 seconds (JVM running for 5.53)
+2017-09-20 12:13:20,318 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:13:44,326 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15208 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:13:44,328 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:13:44,328 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:13:48,199 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.155 seconds (JVM running for 5.076)
+2017-09-20 12:13:56,944 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:15:26,722 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18172 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:15:26,726 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:15:26,727 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:15:30,499 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.078 seconds (JVM running for 4.832)
+2017-09-20 12:15:36,959 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:16:07,052 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2968 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:16:07,054 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:16:07,055 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:16:10,998 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.19 seconds (JVM running for 4.861)
+2017-09-20 12:16:14,184 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:16:15,755 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:17:32,433 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 3760 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:17:32,435 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:17:32,435 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:17:36,206 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.041 seconds (JVM running for 4.938)
+2017-09-20 12:17:41,773 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:18:16,971 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25488 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:18:16,973 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:18:16,974 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:18:20,319 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.587 seconds (JVM running for 4.161)
+2017-09-20 12:18:25,902 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:19:58,589 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 1612 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:19:58,591 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:19:58,592 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:20:02,412 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.09 seconds (JVM running for 4.794)
+2017-09-20 12:20:09,169 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:20:14,922 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:21:32,041 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 6188 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:21:32,044 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:21:32,044 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:21:35,571 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.839 seconds (JVM running for 4.877)
+2017-09-20 12:21:40,923 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:23:19,817 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24436 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:23:19,820 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:23:19,820 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:23:23,886 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.352 seconds (JVM running for 5.081)
+2017-09-20 12:23:26,927 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:26:48,317 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23036 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:26:48,319 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:26:48,320 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:26:52,309 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.264 seconds (JVM running for 4.956)
+2017-09-20 12:26:56,354 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:27:39,569 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24416 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:27:39,572 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:27:39,573 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:27:43,604 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.4 seconds (JVM running for 5.189)
+2017-09-20 12:27:48,802 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:28:30,587 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21840 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:28:30,589 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:28:30,590 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:28:34,168 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.996 seconds (JVM running for 4.972)
+2017-09-20 12:28:42,262 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:29:07,197 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22712 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:29:07,199 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:29:07,199 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:29:10,769 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.815 seconds (JVM running for 4.473)
+2017-09-20 12:29:48,023 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:30:16,256 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19452 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:30:16,258 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:30:16,258 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:30:20,709 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.783 seconds (JVM running for 5.687)
+2017-09-20 12:30:55,771 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 3576 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:30:55,773 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:30:55,774 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:30:59,055 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.506 seconds (JVM running for 4.105)
+2017-09-20 12:31:54,303 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 12:32:17,007 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18956 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 12:32:17,009 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 12:32:17,009 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 12:32:20,452 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.695 seconds (JVM running for 4.351)
+2017-09-20 13:15:46,152 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18944 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 13:15:46,154 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 13:15:46,154 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 13:15:49,827 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.902 seconds (JVM running for 4.547)
+2017-09-20 13:41:16,916 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 14:13:05,720 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25220 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:13:05,722 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:13:05,722 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:13:08,476 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.952 seconds (JVM running for 3.457)
+2017-09-20 14:13:16,546 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:13:20,343 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:14:54,129 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19524 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:14:54,131 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:14:54,131 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:14:57,170 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.227 seconds (JVM running for 3.738)
+2017-09-20 14:15:10,999 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:17:26,517 INFO (UserController.java:49)- ---->>>>----login---->>>>----1+
+
+2017-09-20 14:18:34,502 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21908 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:18:34,504 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:18:34,504 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:18:37,219 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.943 seconds (JVM running for 3.518)
+2017-09-20 14:18:48,856 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:18:52,404 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:19:31,958 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25576 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:19:31,959 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:19:31,960 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:19:34,605 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.85 seconds (JVM running for 3.334)
+2017-09-20 14:20:06,119 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23384 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:20:06,121 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:20:06,121 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:20:08,720 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.784 seconds (JVM running for 3.25)
+2017-09-20 14:20:17,493 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:20:21,499 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:20:32,134 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:20:38,788 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:20:39,129 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:20:39,474 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:20:58,932 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 10756 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:20:58,934 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:20:58,935 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:21:01,728 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.991 seconds (JVM running for 3.732)
+2017-09-20 14:21:01,854 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:21:05,225 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:21:22,623 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21080 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:21:22,625 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:21:22,625 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:21:25,430 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.041 seconds (JVM running for 3.639)
+2017-09-20 14:21:35,281 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:21:38,732 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:22:19,529 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24216 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:22:19,531 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:22:19,531 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:22:22,896 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.551 seconds (JVM running for 4.203)
+2017-09-20 14:22:25,124 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:22:51,103 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21660 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:22:51,106 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:22:51,106 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:22:54,543 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.665 seconds (JVM running for 4.204)
+2017-09-20 14:22:58,888 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:23:02,335 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:28:12,131 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20864 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:28:12,133 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:28:12,133 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:28:14,840 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.889 seconds (JVM running for 3.404)
+2017-09-20 14:31:23,339 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25340 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:31:23,340 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:31:23,341 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:31:26,083 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.927 seconds (JVM running for 3.414)
+2017-09-20 14:31:30,919 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:31:34,043 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:32:14,492 INFO (UserController.java:55)- -->login-ing--please wait
+2017-09-20 14:32:19,372 INFO (UserController.java:49)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:32:31,041 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 14:46:42,480 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21052 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:46:42,482 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:46:42,483 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:46:45,401 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.163 seconds (JVM running for 3.727)
+2017-09-20 14:46:54,983 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-20 14:46:58,419 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:48:34,609 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20944 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:48:34,611 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:48:34,612 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:48:37,471 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.092 seconds (JVM running for 3.8)
+2017-09-20 14:48:51,230 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-20 14:48:54,880 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 14:50:18,889 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15852 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:50:18,891 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:50:18,891 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:50:21,830 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.297 seconds (JVM running for 3.844)
+2017-09-20 14:50:54,487 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20840 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:50:54,489 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:50:54,490 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:50:57,392 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.135 seconds (JVM running for 3.689)
+2017-09-20 14:57:39,458 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 13208 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:57:39,461 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:57:39,461 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:57:42,175 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.91 seconds (JVM running for 3.484)
+2017-09-20 14:58:30,433 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17224 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 14:58:30,436 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 14:58:30,437 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 14:58:33,123 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.878 seconds (JVM running for 3.38)
+2017-09-20 15:02:16,090 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22084 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:02:16,092 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:02:16,093 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:02:18,870 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.968 seconds (JVM running for 3.504)
+2017-09-20 15:03:57,245 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15720 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:03:57,246 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:03:57,247 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:03:59,994 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.95 seconds (JVM running for 3.452)
+2017-09-20 15:08:30,239 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23656 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:08:30,240 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:08:30,241 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:08:32,889 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.834 seconds (JVM running for 3.32)
+2017-09-20 15:12:01,613 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15228 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:12:01,615 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:12:01,615 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:12:04,589 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.199 seconds (JVM running for 3.767)
+2017-09-20 15:13:26,475 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-20 15:13:35,388 INFO (UserController.java:71)- ---->>>>----register---->>>>----1234~~1234
+
+2017-09-20 15:13:35,807 INFO (UserController.java:83)- ---->>>>----register---->>>>----true1234
+
+2017-09-20 15:13:35,823 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-20 15:13:41,480 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 15:39:15,684 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23376 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:39:15,686 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:39:15,687 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:39:18,384 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.878 seconds (JVM running for 3.372)
+2017-09-20 15:39:53,053 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18704 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:39:53,055 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:39:53,056 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:39:55,936 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.099 seconds (JVM running for 3.661)
+2017-09-20 15:40:04,490 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 15:42:24,266 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 13788 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:42:24,267 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:42:24,268 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:42:27,054 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.971 seconds (JVM running for 3.491)
+2017-09-20 15:42:56,660 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 15:43:59,718 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21136 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:43:59,720 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:43:59,720 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:44:02,384 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.843 seconds (JVM running for 3.339)
+2017-09-20 15:44:16,468 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 15:44:18,889 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 15:46:20,442 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23856 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 15:46:20,444 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 15:46:20,444 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 15:46:23,775 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.617 seconds (JVM running for 4.27)
+2017-09-20 15:46:29,245 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 15:50:50,268 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 15:52:41,983 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-20 18:44:41,552 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 3912 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 18:44:41,554 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 18:44:41,554 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 18:44:45,161 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.979 seconds (JVM running for 5.158)
+2017-09-20 18:44:57,579 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 18:45:54,764 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23068 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 18:45:54,766 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 18:45:54,766 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 18:45:57,918 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.413 seconds (JVM running for 4.077)
+2017-09-20 18:46:03,682 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 18:46:59,251 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24532 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 18:46:59,252 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 18:46:59,253 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 18:47:02,593 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.534 seconds (JVM running for 4.234)
+2017-09-20 18:47:09,845 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 18:47:30,428 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 3100 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 18:47:30,430 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 18:47:30,430 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 18:47:33,265 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.026 seconds (JVM running for 3.523)
+2017-09-20 18:47:36,550 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 18:47:59,192 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21752 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 18:47:59,194 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 18:47:59,194 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 18:48:02,252 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.294 seconds (JVM running for 3.859)
+2017-09-20 18:48:08,451 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 18:49:00,570 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15588 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 18:49:00,572 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 18:49:00,572 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 18:49:03,350 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.006 seconds (JVM running for 3.538)
+2017-09-20 18:49:07,841 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 18:50:17,621 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25376 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 18:50:17,623 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 18:50:17,623 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 18:50:20,747 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.326 seconds (JVM running for 3.86)
+2017-09-20 18:50:27,298 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:38:07,342 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:40:37,392 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 13176 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:40:37,393 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:40:37,394 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:40:40,223 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.028 seconds (JVM running for 3.533)
+2017-09-20 19:40:45,254 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:41:30,607 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22324 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:41:30,609 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:41:30,609 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:41:33,728 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.309 seconds (JVM running for 3.928)
+2017-09-20 19:41:39,492 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:42:46,674 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 13112 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:42:46,676 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:42:46,676 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:42:50,028 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.573 seconds (JVM running for 4.072)
+2017-09-20 19:42:53,262 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:43:43,564 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25572 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:43:43,571 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:43:43,572 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:43:46,988 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.656 seconds (JVM running for 4.31)
+2017-09-20 19:43:49,992 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:44:19,191 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22432 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:44:19,193 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:44:19,194 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:44:22,220 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.213 seconds (JVM running for 3.766)
+2017-09-20 19:44:31,244 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:45:31,842 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24672 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:45:31,844 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:45:31,844 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:45:34,654 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.993 seconds (JVM running for 3.549)
+2017-09-20 19:45:44,398 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:47:02,526 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4504 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:47:02,528 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:47:02,529 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:47:05,477 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.215 seconds (JVM running for 3.9)
+2017-09-20 19:47:11,137 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:47:49,894 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 1756 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:47:49,896 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:47:49,896 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:47:52,970 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.264 seconds (JVM running for 3.841)
+2017-09-20 19:47:59,208 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:49:39,311 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25436 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:49:39,313 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:49:39,314 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:49:42,073 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.946 seconds (JVM running for 3.458)
+2017-09-20 19:49:49,038 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:50:15,845 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16756 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:50:15,847 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:50:15,847 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:50:18,478 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.823 seconds (JVM running for 3.307)
+2017-09-20 19:50:23,622 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:51:05,514 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-20 19:51:08,641 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 19:51:23,685 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 19:52:39,809 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21748 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:52:39,811 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:52:39,811 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:52:42,628 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.014 seconds (JVM running for 3.606)
+2017-09-20 19:52:46,919 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:53:03,430 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 12752 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:53:03,431 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:53:03,432 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:53:06,801 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.584 seconds (JVM running for 4.133)
+2017-09-20 19:53:12,456 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:53:27,095 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19060 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:53:27,097 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:53:27,097 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:53:29,856 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.956 seconds (JVM running for 3.448)
+2017-09-20 19:53:39,445 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 19:54:46,810 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25196 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 19:54:46,812 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 19:54:46,812 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 19:54:49,499 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.88 seconds (JVM running for 3.403)
+2017-09-20 19:54:55,560 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:12:48,451 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16464 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:12:48,453 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:12:48,453 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:12:51,490 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.238 seconds (JVM running for 3.746)
+2017-09-20 21:13:00,980 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:14:29,929 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24228 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:14:29,939 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:14:29,939 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:14:32,939 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.25 seconds (JVM running for 3.871)
+2017-09-20 21:14:39,409 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:15:24,866 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 1272 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:15:24,868 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:15:24,868 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:15:27,871 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.227 seconds (JVM running for 3.835)
+2017-09-20 21:15:33,703 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:17:53,176 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25176 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:17:53,179 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:17:53,180 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:17:56,735 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.76 seconds (JVM running for 4.33)
+2017-09-20 21:18:06,551 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:20:06,997 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16988 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:20:06,999 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:20:07,000 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:20:09,878 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.108 seconds (JVM running for 3.655)
+2017-09-20 21:20:16,372 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:20:53,013 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17616 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:20:53,015 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:20:53,016 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:20:55,802 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.013 seconds (JVM running for 3.629)
+2017-09-20 21:21:01,032 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:22:52,648 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24848 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:22:52,650 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:22:52,650 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:22:55,354 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.892 seconds (JVM running for 3.388)
+2017-09-20 21:23:11,797 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:24:03,044 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17316 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:24:03,046 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:24:03,046 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:24:05,655 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.785 seconds (JVM running for 3.25)
+2017-09-20 21:24:11,289 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:25:51,075 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 5384 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:25:51,077 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:25:51,077 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:25:54,445 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.597 seconds (JVM running for 4.266)
+2017-09-20 21:26:02,245 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:27:51,364 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17620 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:27:51,368 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:27:51,368 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:27:54,217 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.044 seconds (JVM running for 3.591)
+2017-09-20 21:28:01,200 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:28:22,728 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4448 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:28:22,730 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:28:22,730 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:28:25,944 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.469 seconds (JVM running for 4.009)
+2017-09-20 21:28:33,453 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:30:22,141 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18088 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:30:22,142 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:30:22,143 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:30:25,278 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.362 seconds (JVM running for 3.928)
+2017-09-20 21:30:28,275 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:31:33,737 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22420 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:31:33,739 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:31:33,739 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:31:36,666 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.148 seconds (JVM running for 3.645)
+2017-09-20 21:31:42,410 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:32:55,383 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 7876 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:32:55,385 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:32:55,386 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:32:58,553 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.384 seconds (JVM running for 4.043)
+2017-09-20 21:33:03,817 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:35:51,865 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 8216 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:35:51,868 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:35:51,868 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:35:54,923 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.273 seconds (JVM running for 3.777)
+2017-09-20 21:35:57,689 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:36:58,579 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 8920 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:36:58,581 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:36:58,581 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:37:01,195 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.808 seconds (JVM running for 3.288)
+2017-09-20 21:37:11,305 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:38:23,404 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15876 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:38:23,406 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:38:23,407 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:38:26,386 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.191 seconds (JVM running for 3.784)
+2017-09-20 21:38:31,337 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:38:54,624 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 8076 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:38:54,627 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:38:54,627 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:38:57,723 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.298 seconds (JVM running for 3.861)
+2017-09-20 21:39:07,587 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:39:19,407 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:40:05,888 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21780 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:40:05,891 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:40:05,891 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:40:09,067 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.364 seconds (JVM running for 3.873)
+2017-09-20 21:40:14,550 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:40:47,431 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14868 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:40:47,433 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:40:47,434 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:40:51,206 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.005 seconds (JVM running for 4.654)
+2017-09-20 21:41:07,441 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14612 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:41:07,442 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:41:07,444 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:41:10,826 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.668 seconds (JVM running for 4.287)
+2017-09-20 21:41:13,868 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:42:23,898 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19408 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:42:23,900 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:42:23,900 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:42:27,477 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.803 seconds (JVM running for 4.361)
+2017-09-20 21:42:30,635 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:42:50,807 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19140 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:42:50,810 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:42:50,810 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:42:54,464 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.909 seconds (JVM running for 4.6)
+2017-09-20 21:43:34,778 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23068 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:43:34,780 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:43:34,780 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:43:38,107 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.514 seconds (JVM running for 4.13)
+2017-09-20 21:43:42,304 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:44:01,296 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4556 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:44:01,298 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:44:01,299 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:44:04,014 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.901 seconds (JVM running for 3.415)
+2017-09-20 21:44:10,663 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:47:57,250 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22500 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:47:57,253 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:47:57,254 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:48:00,101 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.049 seconds (JVM running for 3.623)
+2017-09-20 21:48:06,556 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:50:14,028 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22452 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:50:14,030 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:50:14,031 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:50:16,645 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.804 seconds (JVM running for 3.291)
+2017-09-20 21:50:28,457 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:51:14,588 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17836 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:51:14,589 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:51:14,590 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:51:17,892 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.497 seconds (JVM running for 4.092)
+2017-09-20 21:51:20,999 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:51:54,472 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17460 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:51:54,474 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:51:54,474 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:51:57,718 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.476 seconds (JVM running for 4.038)
+2017-09-20 21:52:02,209 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:52:29,373 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21648 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:52:29,375 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:52:29,376 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:52:32,380 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.206 seconds (JVM running for 3.709)
+2017-09-20 21:52:35,295 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:53:07,797 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14784 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:53:07,799 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:53:07,800 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:53:11,015 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.457 seconds (JVM running for 4.252)
+2017-09-20 21:53:14,999 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:53:49,581 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 1928 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:53:49,583 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:53:49,583 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:53:52,541 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.148 seconds (JVM running for 3.732)
+2017-09-20 21:53:55,753 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:54:13,771 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 12976 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:54:13,773 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:54:13,773 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:54:16,916 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.368 seconds (JVM running for 3.925)
+2017-09-20 21:54:20,845 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:55:18,688 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19600 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:55:18,690 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:55:18,690 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:55:21,736 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.224 seconds (JVM running for 3.738)
+2017-09-20 21:55:25,803 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:56:02,151 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 5928 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:56:02,153 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:56:02,154 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:56:05,365 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.402 seconds (JVM running for 3.924)
+2017-09-20 21:57:01,644 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23636 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:57:01,646 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:57:01,646 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:57:04,395 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.961 seconds (JVM running for 3.483)
+2017-09-20 21:57:42,993 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 21:58:06,017 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24356 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 21:58:06,019 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 21:58:06,019 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 21:58:08,936 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.151 seconds (JVM running for 3.708)
+2017-09-20 21:58:16,301 INFO (ContentController.java:30)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 22:19:09,506 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2308 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 22:19:09,508 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 22:19:09,508 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 22:19:12,225 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.911 seconds (JVM running for 3.389)
+2017-09-20 22:21:26,339 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 22:22:10,675 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15572 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 22:22:10,677 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 22:22:10,677 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 22:22:13,819 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.361 seconds (JVM running for 3.91)
+2017-09-20 22:22:18,884 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 22:23:48,456 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 6032 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 22:23:48,458 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 22:23:48,458 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 22:23:51,422 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.165 seconds (JVM running for 3.699)
+2017-09-20 22:23:55,758 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 22:25:14,659 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20596 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 22:25:14,661 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 22:25:14,661 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 22:25:17,492 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.033 seconds (JVM running for 3.551)
+2017-09-20 22:25:23,016 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-20 22:26:23,278 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16432 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 22:26:23,280 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 22:26:23,280 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 22:26:25,917 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.851 seconds (JVM running for 3.35)
+2017-09-20 22:30:54,944 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 5092 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-20 22:30:54,946 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-20 22:30:54,947 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-20 22:30:57,557 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.802 seconds (JVM running for 3.269)
+2017-09-20 23:41:51,025 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-20 23:42:14,753 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-20 23:42:38,412 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
