@@ -28,7 +28,7 @@ def filter_n(new,users,K):
     re = np.argsort(temp[0])[:K]
     return re, re
 
-def picture(index, users):
+def picture(index, users, production, history):
     selected = users.iloc[index]
     # Gender
     selected[selected.columns[0]].value_counts().plot.pie(label='Gender',title='Gender')
@@ -51,6 +51,18 @@ def picture(index, users):
     selected[selected.columns[11]].plot.hist(title='Income',color='gold',bins=15)
     plt.savefig('Income.jpg')
     plt.close()
+    # Production
+    buy_set = set()
+    for i in index:
+        for j in np.argwhere(history[i]==1)[:,0]:
+            buy_set.add(j)
+    buy_set = list(buy_set)
+    buy = production.iloc[buy_set]
+    buy[buy.columns[0]].plot.hist(title="Productions",color='#0add08')
+    plt.savefig("Productions.jpg")
+    plt.close()
+    
+
 
 def to_old(u_id,money,users,history,production):
     Simi_users, Group = filter_o(u_id,users,history,int(len(history)*0.15)) 
@@ -64,7 +76,7 @@ def to_old(u_id,money,users,history,production):
     unbuy_rate = [production[i][1] for i in unbuy_index]
     unbuy_price = [int(production[i][3]) for i in unbuy_index]
     dic, total = bag([unbuy_price,unbuy_rate],money)
-    return [[unbuy_index[i], dic[i]] for i in dic.keys()], total, Group
+    return [[unbuy_index[i]+1, dic[i]] for i in dic], total, Group
     
 def to_new(new,money,users,history,production):
     Simi_users, Group = filter_n(new,users,int(len(users)*0.15))
@@ -77,4 +89,4 @@ def to_new(new,money,users,history,production):
     unbuy_rate = [production[i][1] for i in unbuy_index]
     unbuy_price = [int(production[i][3]) for i in unbuy_index]
     dic, total = bag([unbuy_price,unbuy_rate],money)
-    return [[unbuy_index[i], dic[i]] for i in dic.keys()], total, Group
+    return [[unbuy_index[i]+1, dic[i]] for i in dic], total, Group

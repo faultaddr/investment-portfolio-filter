@@ -16,11 +16,10 @@ def bag(items,money):
                 last[j] = i
     result = money
     dic = {}
+    for i in range(num):
+            dic[i] = 0
     while money>0 and last[money]>=0:
-        if last[money] not in dic.keys():
-            dic[last[money]] = 1
-        else:
-            dic[last[money]] = dic[last[money]] + 1
+        dic[last[money]] = dic[last[money]] + 1
         money = money - items[0][last[money]]
     return dic, full[result]*0.01
     
