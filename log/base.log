@@ -1,0 +1,771 @@
+2017-09-21 00:48:54,462 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22644 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 00:48:54,468 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 00:48:54,469 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 00:48:57,917 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.734 seconds (JVM running for 4.623)
+2017-09-21 00:51:13,848 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16104 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 00:51:13,851 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 00:51:13,851 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 00:51:17,246 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.621 seconds (JVM running for 4.236)
+2017-09-21 00:51:34,900 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 00:52:42,526 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24248 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 00:52:42,528 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 00:52:42,528 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 00:52:46,177 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.958 seconds (JVM running for 4.801)
+2017-09-21 00:53:10,134 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 00:53:35,489 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18792 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 00:53:35,492 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 00:53:35,492 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 00:53:39,278 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.034 seconds (JVM running for 4.728)
+2017-09-21 00:53:53,869 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 00:56:14,387 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23012 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 00:56:14,389 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 00:56:14,389 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 00:56:17,580 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.438 seconds (JVM running for 4.061)
+2017-09-21 00:56:31,732 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 00:56:35,177 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-21 00:56:41,506 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 00:57:14,041 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25580 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 00:57:14,043 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 00:57:14,043 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 00:57:17,577 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.785 seconds (JVM running for 4.477)
+2017-09-21 00:57:24,172 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-21 00:57:29,162 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 00:57:35,362 INFO (ContentController.java:37)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 01:04:25,931 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20240 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:04:25,933 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:04:25,933 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:04:29,322 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.701 seconds (JVM running for 4.522)
+2017-09-21 01:04:46,988 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:04:50,546 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-21 01:04:56,138 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:05:03,915 INFO (ContentController.java:37)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 01:10:08,995 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2080 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:10:08,997 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:10:08,997 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:10:12,380 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.619 seconds (JVM running for 4.301)
+2017-09-21 01:10:19,983 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:10:23,421 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-21 01:10:28,343 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:10:34,670 INFO (ContentController.java:37)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 01:11:38,214 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25084 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:11:38,216 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:11:38,217 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:11:41,792 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.813 seconds (JVM running for 4.435)
+2017-09-21 01:11:50,959 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:11:54,734 INFO (UserController.java:50)- ---->>>>----login---->>>>----1234+
+
+2017-09-21 01:12:01,821 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:12:09,274 INFO (ContentController.java:37)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 01:15:16,772 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23892 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:15:16,774 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:15:16,774 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:15:20,377 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.838 seconds (JVM running for 4.552)
+2017-09-21 01:15:53,581 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:16:03,279 INFO (UserController.java:50)- ---->>>>----login---->>>>----1+
+
+2017-09-21 01:16:09,853 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:16:19,827 INFO (ContentController.java:37)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 01:20:24,022 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25044 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:20:24,024 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:20:24,024 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:20:27,797 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.014 seconds (JVM running for 4.646)
+2017-09-21 01:20:35,462 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:20:42,721 INFO (UserController.java:50)- ---->>>>----login---->>>>----1+
+
+2017-09-21 01:20:48,200 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:22:35,467 INFO (UserController.java:71)- ---->>>>----register---->>>>----12345~~1234
+
+2017-09-21 01:22:36,019 INFO (UserController.java:83)- ---->>>>----register---->>>>----true12345
+
+2017-09-21 01:22:36,036 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:22:48,064 INFO (UserController.java:50)- ---->>>>----login---->>>>----12345+
+
+2017-09-21 01:23:28,679 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:26:23,139 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20920 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:26:23,141 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:26:23,142 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:26:27,173 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.284 seconds (JVM running for 4.995)
+2017-09-21 01:26:52,990 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:26:57,004 INFO (UserController.java:50)- ---->>>>----login---->>>>----12345+
+
+2017-09-21 01:26:57,018 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:27:36,331 INFO (UserController.java:71)- ---->>>>----register---->>>>----123456~~1234
+
+2017-09-21 01:27:36,870 INFO (UserController.java:83)- ---->>>>----register---->>>>----true123456
+
+2017-09-21 01:27:36,897 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:27:44,694 INFO (UserController.java:50)- ---->>>>----login---->>>>----123456+
+
+2017-09-21 01:28:13,840 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:29:31,381 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:29:37,214 INFO (UserController.java:50)- ---->>>>----login---->>>>----1+
+
+2017-09-21 01:29:42,844 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:47:56,785 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18696 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:47:56,788 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:47:56,789 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:48:01,434 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.941 seconds (JVM running for 5.739)
+2017-09-21 01:48:09,361 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:48:17,796 INFO (UserController.java:50)- ---->>>>----login---->>>>----1+
+
+2017-09-21 01:48:24,980 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:50:41,175 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:50:57,348 INFO (UserController.java:71)- ---->>>>----register---->>>>----1100~~1234
+
+2017-09-21 01:50:57,977 INFO (UserController.java:83)- ---->>>>----register---->>>>----true1100
+
+2017-09-21 01:50:57,988 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:51:00,529 INFO (UserController.java:50)- ---->>>>----login---->>>>----1+
+
+2017-09-21 01:51:28,288 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:51:34,495 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 01:51:39,575 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:53:27,621 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:53:33,615 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 01:53:33,666 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:54:28,729 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 01:54:34,302 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 01:57:31,713 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23628 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 01:57:31,716 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 01:57:31,716 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 01:57:35,819 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.417 seconds (JVM running for 5.184)
+2017-09-21 01:57:52,965 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 01:57:59,695 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 01:58:05,453 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:05:38,424 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15992 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:05:38,426 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:05:38,427 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:05:42,818 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.736 seconds (JVM running for 5.519)
+2017-09-21 02:05:50,951 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:05:59,623 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:06:08,527 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:09:37,969 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 10416 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:09:37,972 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:09:37,972 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:09:42,719 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 5.077 seconds (JVM running for 5.889)
+2017-09-21 02:09:53,522 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:09:57,768 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:10:03,341 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:11:41,350 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25344 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:11:41,353 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:11:41,353 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:11:45,493 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.443 seconds (JVM running for 5.225)
+2017-09-21 02:11:58,104 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:12:02,412 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:12:07,262 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:15:52,636 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20388 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:15:52,638 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:15:52,640 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:15:57,042 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.687 seconds (JVM running for 5.48)
+2017-09-21 02:16:05,209 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:16:10,843 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:16:24,476 INFO (ContentController.java:37)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 02:37:36,395 INFO (ContentController.java:31)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:40:30,507 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25492 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:40:30,509 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:40:30,509 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:40:33,526 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.213 seconds (JVM running for 3.759)
+2017-09-21 02:40:43,492 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:40:46,556 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:40:51,947 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:41:30,716 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 10680 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:41:30,718 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:41:30,718 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:41:33,647 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.136 seconds (JVM running for 3.676)
+2017-09-21 02:41:41,496 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:41:44,383 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:41:48,951 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:41:59,272 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 02:42:59,426 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 6276 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:42:59,440 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:42:59,440 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:43:02,728 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.534 seconds (JVM running for 4.08)
+2017-09-21 02:43:17,905 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:43:19,478 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:43:19,874 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 02:43:20,168 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num"[3,55]}
+2017-09-21 02:43:24,797 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:43:52,791 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 02:43:53,458 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num"[6,370]}
+2017-09-21 02:44:33,523 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 316 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:44:33,524 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:44:33,525 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:44:36,854 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.599 seconds (JVM running for 4.144)
+2017-09-21 02:44:53,195 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:45:04,460 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 02:45:04,955 INFO (ContentController.java:62)- {"pro":[{"id":386,"jine":4400,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,113]}
+2017-09-21 02:57:12,781 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22372 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:57:12,783 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:57:12,784 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:57:15,801 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.221 seconds (JVM running for 3.767)
+2017-09-21 02:57:29,409 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:57:32,638 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:57:37,441 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:57:54,799 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 02:57:55,785 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":386,"jine":4400,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[1,2,45]}
+2017-09-21 02:59:15,008 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4608 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 02:59:15,011 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 02:59:15,011 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 02:59:18,327 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.591 seconds (JVM running for 4.187)
+2017-09-21 02:59:28,518 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 02:59:32,003 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 02:59:36,489 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 02:59:56,850 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 02:59:57,318 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[4,124]}
+2017-09-21 03:01:38,490 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17664 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:01:38,492 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:01:38,492 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:01:41,672 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.411 seconds (JVM running for 3.934)
+2017-09-21 03:01:52,872 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:02:01,684 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:02:02,644 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":332,"jine":100,"pinji":3,"qixian":360,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[1,2,38]}
+2017-09-21 03:09:13,271 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22200 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:09:13,273 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:09:13,274 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:09:17,389 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.373 seconds (JVM running for 5.007)
+2017-09-21 03:09:24,348 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:10:42,799 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:10:55,968 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:10:56,764 INFO (ContentController.java:62)- {"pro":[{"id":332,"jine":100,"pinji":3,"qixian":360,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,32]}
+2017-09-21 03:12:43,998 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 12372 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:12:44,000 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:12:44,001 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:12:47,805 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.063 seconds (JVM running for 4.746)
+2017-09-21 03:12:59,709 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:13:07,797 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:13:08,208 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5}],"num":[5]}
+2017-09-21 03:14:18,368 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22736 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:14:18,373 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:14:18,373 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:14:22,120 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.06 seconds (JVM running for 4.772)
+2017-09-21 03:14:36,086 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:14:40,896 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:14:41,055 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5}],"num":[5]}
+2017-09-21 03:16:21,680 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14120 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:16:21,682 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:16:21,682 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:16:24,726 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.24 seconds (JVM running for 3.752)
+2017-09-21 03:16:37,624 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:16:43,438 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:16:43,797 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5}],"num":[5]}
+2017-09-21 03:17:49,001 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24836 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:17:49,003 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:17:49,004 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:17:52,786 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.02 seconds (JVM running for 4.651)
+2017-09-21 03:18:16,848 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:18:22,771 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:18:23,469 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,11]}
+2017-09-21 03:19:30,907 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2588 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:19:30,909 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:19:30,909 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:19:33,845 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.135 seconds (JVM running for 3.66)
+2017-09-21 03:19:48,070 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19488 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:19:48,072 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:19:48,073 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:19:51,151 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.274 seconds (JVM running for 3.818)
+2017-09-21 03:20:03,261 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:20:08,225 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:20:08,872 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,11]}
+2017-09-21 03:21:24,985 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23304 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:21:24,987 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:21:24,987 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:21:28,178 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.411 seconds (JVM running for 4.003)
+2017-09-21 03:21:38,521 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:21:43,935 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:21:44,583 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,11]}
+2017-09-21 03:24:03,426 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20188 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:24:03,428 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:24:03,428 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:24:06,440 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.232 seconds (JVM running for 3.743)
+2017-09-21 03:24:17,662 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:24:23,751 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:24:24,412 INFO (ContentController.java:62)- {"pro":[{"id":332,"jine":100,"pinji":3,"qixian":360,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[1,11]}
+2017-09-21 03:26:00,388 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2140 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:26:00,391 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:26:00,391 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:26:03,317 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.142 seconds (JVM running for 3.692)
+2017-09-21 03:26:15,175 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:26:19,890 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:26:20,548 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,11]}
+2017-09-21 03:27:15,274 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18376 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:27:15,278 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:27:15,279 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:27:18,217 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.136 seconds (JVM running for 3.657)
+2017-09-21 03:27:27,649 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:27:32,680 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:27:39,567 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:27:40,520 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":386,"jine":4400,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[1,2,10]}
+2017-09-21 03:28:10,498 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2136 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:28:10,500 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:28:10,500 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:28:13,538 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.24 seconds (JVM running for 3.796)
+2017-09-21 03:28:32,666 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:28:33,223 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":386,"jine":4400,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[1,2,10]}
+2017-09-21 03:28:37,190 INFO (ContentController.java:35)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:28:44,055 INFO (ContentController.java:41)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:28:45,352 INFO (ContentController.java:62)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":332,"jine":100,"pinji":3,"qixian":360,"shouyilv":13.5},{"id":386,"jine":4400,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,1,1,21]}
+2017-09-21 03:34:15,991 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22020 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:34:15,993 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:34:15,993 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:34:19,121 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.37 seconds (JVM running for 3.923)
+2017-09-21 03:34:35,877 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:34:40,551 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:34:41,012 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,11],"sum":1724.73}
+2017-09-21 03:36:35,478 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24944 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:36:35,480 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:36:35,481 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:36:38,571 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.319 seconds (JVM running for 3.851)
+2017-09-21 03:36:50,371 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:36:54,841 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:36:55,509 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,11],"sum":1724.73}
+2017-09-21 03:38:01,941 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 24412 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:38:01,943 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:38:01,943 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:38:05,051 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.314 seconds (JVM running for 3.861)
+2017-09-21 03:38:19,519 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:38:23,733 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:38:24,581 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0},{"id":390,"jine":4600,"pinji":3,"qixian":540,"shouyilv":13.5}],"num":[2,10,1],"sum":1697.88}
+2017-09-21 03:39:58,537 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25344 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:39:58,539 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:39:58,539 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:40:01,491 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.166 seconds (JVM running for 3.716)
+2017-09-21 03:40:17,404 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:40:21,377 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:40:22,036 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[2,11],"sum":1724.73}
+2017-09-21 03:41:18,083 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4740 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:41:18,085 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:41:18,085 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:41:21,126 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.278 seconds (JVM running for 3.822)
+2017-09-21 03:41:41,111 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 03:42:07,046 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 03:42:08,034 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0},{"id":390,"jine":4600,"pinji":3,"qixian":540,"shouyilv":13.5}],"num":[3,411,1],"sum":62193.735}
+2017-09-21 03:43:23,202 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 12372 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:43:23,205 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:43:23,205 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:43:26,299 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.312 seconds (JVM running for 3.844)
+2017-09-21 03:43:33,385 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 03:45:57,110 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21044 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:45:57,112 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:45:57,112 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:46:00,050 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.127 seconds (JVM running for 3.667)
+2017-09-21 03:48:30,131 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18404 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:48:30,134 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:48:30,135 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:48:33,138 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.204 seconds (JVM running for 3.74)
+2017-09-21 03:49:54,060 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19960 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:49:54,062 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:49:54,063 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:49:57,734 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.923 seconds (JVM running for 4.531)
+2017-09-21 03:50:43,264 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23700 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 03:50:43,265 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 03:50:43,266 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 03:50:46,702 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.653 seconds (JVM running for 4.216)
+2017-09-21 04:03:40,688 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 15816 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:03:40,689 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:03:40,690 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:03:44,164 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.678 seconds (JVM running for 4.295)
+2017-09-21 04:04:15,730 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 04:04:20,570 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 04:09:00,102 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19472 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:09:00,105 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:09:00,105 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:09:03,149 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.261 seconds (JVM running for 3.8)
+2017-09-21 04:09:15,740 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 04:09:19,257 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 04:09:31,723 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 04:09:43,113 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 04:09:43,737 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[6,112],"sum":17085.81}
+2017-09-21 04:12:39,385 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20584 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:12:39,387 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:12:39,387 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:12:42,308 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.133 seconds (JVM running for 3.637)
+2017-09-21 04:15:27,984 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 6140 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:15:27,986 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:15:27,987 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:15:31,366 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.601 seconds (JVM running for 4.269)
+2017-09-21 04:16:11,851 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26144 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:16:11,855 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:16:11,856 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:16:15,454 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.794 seconds (JVM running for 4.43)
+2017-09-21 04:16:21,753 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 04:17:15,357 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25964 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:17:15,359 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:17:15,359 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:17:18,814 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.665 seconds (JVM running for 4.294)
+2017-09-21 04:17:23,713 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 04:18:01,333 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26168 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:18:01,335 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:18:01,336 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:18:05,149 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 4.043 seconds (JVM running for 4.672)
+2017-09-21 04:19:08,870 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26016 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:19:08,872 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:19:08,873 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:19:12,221 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.559 seconds (JVM running for 4.159)
+2017-09-21 04:20:00,961 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25928 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 04:20:00,964 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 04:20:00,965 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 04:20:03,954 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.183 seconds (JVM running for 3.716)
+2017-09-21 04:20:10,190 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 09:09:52,720 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 09:10:50,280 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 09:10:51,055 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5},{"id":35,"jine":849,"pinji":1,"qixian":180,"shouyilv":14.0}],"num":[4,62],"sum":9480.66}
+2017-09-21 09:34:15,541 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 27444 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:34:15,543 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:34:15,544 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:34:19,021 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.813 seconds (JVM running for 4.636)
+2017-09-21 09:37:26,984 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 12828 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:37:26,986 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:37:26,987 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:37:30,204 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.41 seconds (JVM running for 4.004)
+2017-09-21 09:38:04,686 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26900 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:38:04,688 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:38:04,689 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:38:07,991 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.507 seconds (JVM running for 4.106)
+2017-09-21 09:40:10,516 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 10380 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:40:10,518 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:40:10,518 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:40:13,420 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.095 seconds (JVM running for 3.668)
+2017-09-21 09:40:24,237 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 09:41:17,861 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 09:42:38,858 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 27084 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:42:38,860 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:42:38,861 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:42:41,888 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.248 seconds (JVM running for 3.767)
+2017-09-21 09:42:49,532 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 09:44:06,541 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17204 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:44:06,544 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:44:06,544 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:44:09,456 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.123 seconds (JVM running for 3.667)
+2017-09-21 09:44:22,345 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 09:44:25,597 INFO (UserController.java:50)- ---->>>>----login---->>>>----1100+
+
+2017-09-21 09:44:29,686 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 09:45:18,636 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23664 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:45:18,638 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:45:18,638 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:45:21,564 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.146 seconds (JVM running for 3.701)
+2017-09-21 09:45:52,638 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 27192 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:45:52,640 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:45:52,640 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:45:55,621 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.193 seconds (JVM running for 3.808)
+2017-09-21 09:46:37,957 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26648 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:46:37,959 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:46:37,959 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:46:40,867 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.11 seconds (JVM running for 3.626)
+2017-09-21 09:48:35,225 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18056 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:48:35,228 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:48:35,228 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:48:38,557 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.55 seconds (JVM running for 4.139)
+2017-09-21 09:48:46,139 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 09:49:02,160 INFO (UserController.java:71)- ---->>>>----register---->>>>----1111~~1111
+
+2017-09-21 09:49:03,907 INFO (UserController.java:83)- ---->>>>----register---->>>>----true1111
+
+2017-09-21 09:49:03,934 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 09:49:11,580 INFO (UserController.java:50)- ---->>>>----login---->>>>----1111+
+
+2017-09-21 09:56:51,882 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 09:57:02,001 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 09:57:02,313 INFO (ContentController.java:63)- {"pro":[{"id":385,"jine":8800,"pinji":3,"qixian":18,"shouyilv":13.5}],"num":[204],"sum":6747.3}
+2017-09-21 09:59:06,578 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20476 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 09:59:06,581 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 09:59:06,581 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 09:59:09,493 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.102 seconds (JVM running for 3.602)
+2017-09-21 09:59:13,945 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 09:59:26,681 INFO (UserController.java:71)- ---->>>>----register---->>>>----2345~~2345
+
+2017-09-21 09:59:28,258 INFO (UserController.java:83)- ---->>>>----register---->>>>----true2345
+
+2017-09-21 09:59:28,268 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 09:59:35,396 INFO (UserController.java:50)- ---->>>>----login---->>>>----2345+
+
+2017-09-21 10:03:50,662 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 10:03:57,519 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 10:03:58,142 INFO (ContentController.java:63)- {"pro":[{"id":837,"jine":1000000,"pinji":4,"qixian":360,"shouyilv":13.0},{"id":893,"jine":11394,"pinji":4,"qixian":330,"shouyilv":12.55}],"num":[1,1],"sum":158.1185}
+2017-09-21 10:28:14,592 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14596 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:28:14,594 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:28:14,594 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:29:34,551 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 10404 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:29:34,553 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:29:34,553 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:29:37,395 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.052 seconds (JVM running for 3.56)
+2017-09-21 10:32:10,193 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14136 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:32:10,194 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:32:10,195 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:32:13,127 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.134 seconds (JVM running for 3.645)
+2017-09-21 10:33:01,907 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17860 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:33:01,908 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:33:01,909 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:33:04,646 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.925 seconds (JVM running for 3.472)
+2017-09-21 10:33:49,854 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:34:00,387 INFO (UserController.java:50)- ---->>>>----login---->>>>----2345+
+
+2017-09-21 10:34:10,064 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 10:34:22,916 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 10:34:23,545 INFO (ContentController.java:63)- {"pro":[{"id":837,"jine":300,"pinji":4,"qixian":360,"shouyilv":13.0},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55}],"num":[1,1],"sum":158.1185}
+2017-09-21 10:35:24,542 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 14924 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:35:24,544 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:35:24,545 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:35:27,368 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.022 seconds (JVM running for 3.543)
+2017-09-21 10:38:08,177 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2084 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:38:08,181 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:38:08,181 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:38:11,125 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.173 seconds (JVM running for 3.716)
+2017-09-21 10:39:41,792 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19956 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:39:41,793 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:39:41,794 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:39:45,361 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.793 seconds (JVM running for 4.369)
+2017-09-21 10:40:28,524 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:40:35,557 INFO (UserController.java:50)- ---->>>>----login---->>>>----2345+
+
+2017-09-21 10:40:45,246 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 10:40:55,401 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 10:40:56,041 INFO (ContentController.java:63)- {"pro":[{"id":837,"jine":300,"pinji":4,"qixian":360,"shouyilv":13.0},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55}],"num":[1,1],"sum":158.1185}
+2017-09-21 10:44:50,445 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 5176 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:44:50,447 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:44:50,448 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:44:53,243 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.989 seconds (JVM running for 3.573)
+2017-09-21 10:45:02,127 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:45:08,105 INFO (UserController.java:50)- ---->>>>----login---->>>>----1+
+
+2017-09-21 10:45:08,119 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:45:16,576 INFO (UserController.java:50)- ---->>>>----login---->>>>----1+
+
+2017-09-21 10:45:16,583 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:46:13,218 INFO (UserController.java:50)- ---->>>>----login---->>>>----2+
+
+2017-09-21 10:46:20,474 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 10:49:10,215 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 2268 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:49:10,217 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:49:10,217 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:49:13,016 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.067 seconds (JVM running for 3.588)
+2017-09-21 10:49:28,785 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:49:32,060 INFO (UserController.java:50)- ---->>>>----login---->>>>----2+
+
+2017-09-21 10:49:36,410 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 10:49:44,817 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 10:49:59,893 INFO (ContentController.java:63)- {"pro":[{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89}],"num":[1,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":666.634}
+2017-09-21 10:52:36,897 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18384 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:52:36,898 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:52:36,899 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:52:39,838 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.134 seconds (JVM running for 3.614)
+2017-09-21 10:52:53,219 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19132 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:52:53,221 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:52:53,221 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:52:56,375 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.366 seconds (JVM running for 3.888)
+2017-09-21 10:53:10,547 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 10:53:25,210 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 10:53:40,316 INFO (ContentController.java:63)- {"pro":[{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89}],"num":[1,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":666.634}
+2017-09-21 10:54:33,877 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18340 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:54:33,882 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:54:33,883 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:54:37,293 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.806 seconds (JVM running for 4.374)
+2017-09-21 10:54:57,372 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 1596 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:54:57,374 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:54:57,375 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:55:00,530 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.384 seconds (JVM running for 3.9)
+2017-09-21 10:56:08,178 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21004 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 10:56:08,182 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 10:56:08,183 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 10:56:11,324 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.371 seconds (JVM running for 3.877)
+2017-09-21 10:56:33,140 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:56:45,079 INFO (UserController.java:71)- ---->>>>----register---->>>>----2222~~2222
+
+2017-09-21 10:56:46,576 INFO (UserController.java:83)- ---->>>>----register---->>>>----true2222
+
+2017-09-21 10:56:46,588 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 10:56:54,953 INFO (UserController.java:50)- ---->>>>----login---->>>>----2222+
+
+2017-09-21 10:58:10,541 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 10:58:19,542 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 10:58:43,875 INFO (ContentController.java:63)- {"pro":[{"id":897,"jine":221,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":1026,"jine":631,"pinji":5,"qixian":247,"shouyilv":6.6},{"id":1068,"jine":915,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":903,"jine":475,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":861,"jine":470,"pinji":4,"qixian":180,"shouyilv":8.0},{"id":1017,"jine":220,"pinji":5,"qixian":197,"shouyilv":6.7},{"id":1036,"jine":686,"pinji":5,"qixian":177,"shouyilv":6.5},{"id":1034,"jine":806,"pinji":5,"qixian":92,"shouyilv":7.0},{"id":913,"jine":269,"pinji":4,"qixian":210,"shouyilv":12.09},{"id":89,"jine":959,"pinji":1,"qixian":20,"shouyilv":8.0},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":1047,"jine":895,"pinji":5,"qixian":149,"shouyilv":6.0},{"id":1048,"jine":212,"pinji":5,"qixian":327,"shouyilv":6.9},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":944,"jine":532,"pinji":4,"qixian":5,"shouyilv":12.0},{"id":925,"jine":598,"pinji":4,"qixian":270,"shouyilv":12.5},{"id":1054,"jine":216,"pinji":5,"qixian":730,"shouyilv":7.1},{"id":1110,"jine":649,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":838,"jine":862,"pinji":4,"qixian":12,"shouyilv":13.0},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":927,"jine":496,"pinji":4,"qixian":300,"shouyilv":12.5},{"id":946,"jine":226,"pinji":4,"qixian":11,"shouyilv":11.01},{"id":937,"jine":733,"pinji":4,"qixian":150,"shouyilv":11.01},{"id":1053,"jine":359,"pinji":5,"qixian":362,"shouyilv":6.5},{"id":812,"jine":238,"pinji":4,"qixian":12,"shouyilv":9.8},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":816,"jine":980,"pinji":4,"qixian":1,"shouyilv":7.2},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":969,"jine":538,"pinji":4,"qixian":120,"shouyilv":11.03},{"id":819,"jine":959,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":1077,"jine":882,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1078,"jine":846,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":1079,"jine":318,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":824,"jine":313,"pinji":4,"qixian":3,"shouyilv":7.6},{"id":825,"jine":456,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":826,"jine":577,"pinji":4,"qixian":6,"shouyilv":8.5},{"id":955,"jine":879,"pinji":4,"qixian":210,"shouyilv":11.71},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1091,"jine":451,"pinji":5,"qixian":30,"shouyilv":7.2},{"id":847,"jine":546,"pinji":4,"qixian":180,"shouyilv":12.0},{"id":966,"jine":489,"pinji":4,"qixian":4,"shouyilv":10.3},{"id":1058,"jine":649,"pinji":5,"qixian":6,"shouyilv":7.2},{"id":1097,"jine":888,"pinji":5,"qixian":720,"shouyilv":10.5},{"id":842,"jine":941,"pinji":4,"qixian":11,"shouyilv":12.52},{"id":845,"jine":932,"pinji":4,"qixian":240,"shouyilv":12.0},{"id":974,"jine":875,"pinji":4,"qixian":4,"shouyilv":10.51},{"id":1103,"jine":878,"pinji":5,"qixian":7,"shouyilv":4.0},{"id":848,"jine":852,"pinji":4,"qixian":6,"shouyilv":12.0},{"id":889,"jine":383,"pinji":4,"qixian":180,"shouyilv":11.3},{"id":980,"jine":290,"pinji":4,"qixian":9,"shouyilv":12.55},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":985,"jine":233,"pinji":5,"qixian":692,"shouyilv":7.3},{"id":986,"jine":709,"pinji":5,"qixian":1080,"shouyilv":11.2},{"id":859,"jine":738,"pinji":4,"qixian":150,"shouyilv":8.0},{"id":860,"jine":828,"pinji":4,"qixian":5,"shouyilv":8.0},{"id":989,"jine":439,"pinji":5,"qixian":36,"shouyilv":11.2},{"id":827,"jine":678,"pinji":4,"qixian":360,"shouyilv":9.8},{"id":1119,"jine":715,"pinji":5,"qixian":18,"shouyilv":10.0},{"id":866,"jine":713,"pinji":4,"qixian":9,"shouyilv":12.45},{"id":867,"jine":778,"pinji":4,"qixian":60,"shouyilv":8.0},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89},{"id":997,"jine":767,"pinji":5,"qixian":626,"shouyilv":7.0},{"id":999,"jine":237,"pinji":5,"qixian":320,"shouyilv":6.5},{"id":914,"jine":331,"pinji":4,"qixian":7,"shouyilv":12.09},{"id":1001,"jine":971,"pinji":5,"qixian":273,"shouyilv":6.5},{"id":731,"jine":562,"pinji":3,"qixian":217,"shouyilv":8.67},{"id":884,"jine":352,"pinji":4,"qixian":8,"shouyilv":10.0},{"id":1013,"jine":544,"pinji":5,"qixian":167,"shouyilv":6.7},{"id":761,"jine":854,"pinji":3,"qixian":185,"shouyilv":8.67},{"id":892,"jine":913,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":894,"jine":367,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":896,"jine":660,"pinji":4,"qixian":11,"shouyilv":12.55}],"num":[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0],"sum":515.9934}
+2017-09-21 11:01:42,743 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 11164 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:01:42,745 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:01:42,745 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:01:46,185 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.658 seconds (JVM running for 4.28)
+2017-09-21 11:03:01,219 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16716 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:03:01,222 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:03:01,222 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:03:04,155 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.175 seconds (JVM running for 3.78)
+2017-09-21 11:03:56,938 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 10384 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:03:56,940 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:03:56,941 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:04:00,340 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.591 seconds (JVM running for 4.112)
+2017-09-21 11:11:09,782 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26884 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:11:09,784 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:11:09,784 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:11:12,742 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.159 seconds (JVM running for 3.774)
+2017-09-21 11:12:03,323 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4104 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:12:03,324 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:12:03,325 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:12:06,234 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.127 seconds (JVM running for 3.64)
+2017-09-21 11:12:36,403 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 11:12:44,847 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:13:08,528 INFO (ContentController.java:63)- {"pro":[{"id":897,"jine":221,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":1026,"jine":631,"pinji":5,"qixian":247,"shouyilv":6.6},{"id":1068,"jine":915,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":903,"jine":475,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":861,"jine":470,"pinji":4,"qixian":180,"shouyilv":8.0},{"id":1017,"jine":220,"pinji":5,"qixian":197,"shouyilv":6.7},{"id":1036,"jine":686,"pinji":5,"qixian":177,"shouyilv":6.5},{"id":1034,"jine":806,"pinji":5,"qixian":92,"shouyilv":7.0},{"id":913,"jine":269,"pinji":4,"qixian":210,"shouyilv":12.09},{"id":89,"jine":959,"pinji":1,"qixian":20,"shouyilv":8.0},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":1047,"jine":895,"pinji":5,"qixian":149,"shouyilv":6.0},{"id":1048,"jine":212,"pinji":5,"qixian":327,"shouyilv":6.9},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":944,"jine":532,"pinji":4,"qixian":5,"shouyilv":12.0},{"id":925,"jine":598,"pinji":4,"qixian":270,"shouyilv":12.5},{"id":1054,"jine":216,"pinji":5,"qixian":730,"shouyilv":7.1},{"id":1110,"jine":649,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":838,"jine":862,"pinji":4,"qixian":12,"shouyilv":13.0},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":927,"jine":496,"pinji":4,"qixian":300,"shouyilv":12.5},{"id":946,"jine":226,"pinji":4,"qixian":11,"shouyilv":11.01},{"id":937,"jine":733,"pinji":4,"qixian":150,"shouyilv":11.01},{"id":1053,"jine":359,"pinji":5,"qixian":362,"shouyilv":6.5},{"id":812,"jine":238,"pinji":4,"qixian":12,"shouyilv":9.8},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":816,"jine":980,"pinji":4,"qixian":1,"shouyilv":7.2},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":969,"jine":538,"pinji":4,"qixian":120,"shouyilv":11.03},{"id":819,"jine":959,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":1077,"jine":882,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1078,"jine":846,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":1079,"jine":318,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":824,"jine":313,"pinji":4,"qixian":3,"shouyilv":7.6},{"id":825,"jine":456,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":826,"jine":577,"pinji":4,"qixian":6,"shouyilv":8.5},{"id":955,"jine":879,"pinji":4,"qixian":210,"shouyilv":11.71},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1091,"jine":451,"pinji":5,"qixian":30,"shouyilv":7.2},{"id":847,"jine":546,"pinji":4,"qixian":180,"shouyilv":12.0},{"id":966,"jine":489,"pinji":4,"qixian":4,"shouyilv":10.3},{"id":1058,"jine":649,"pinji":5,"qixian":6,"shouyilv":7.2},{"id":1097,"jine":888,"pinji":5,"qixian":720,"shouyilv":10.5},{"id":842,"jine":941,"pinji":4,"qixian":11,"shouyilv":12.52},{"id":845,"jine":932,"pinji":4,"qixian":240,"shouyilv":12.0},{"id":974,"jine":875,"pinji":4,"qixian":4,"shouyilv":10.51},{"id":1103,"jine":878,"pinji":5,"qixian":7,"shouyilv":4.0},{"id":848,"jine":852,"pinji":4,"qixian":6,"shouyilv":12.0},{"id":889,"jine":383,"pinji":4,"qixian":180,"shouyilv":11.3},{"id":980,"jine":290,"pinji":4,"qixian":9,"shouyilv":12.55},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":985,"jine":233,"pinji":5,"qixian":692,"shouyilv":7.3},{"id":986,"jine":709,"pinji":5,"qixian":1080,"shouyilv":11.2},{"id":859,"jine":738,"pinji":4,"qixian":150,"shouyilv":8.0},{"id":860,"jine":828,"pinji":4,"qixian":5,"shouyilv":8.0},{"id":989,"jine":439,"pinji":5,"qixian":36,"shouyilv":11.2},{"id":827,"jine":678,"pinji":4,"qixian":360,"shouyilv":9.8},{"id":1119,"jine":715,"pinji":5,"qixian":18,"shouyilv":10.0},{"id":866,"jine":713,"pinji":4,"qixian":9,"shouyilv":12.45},{"id":867,"jine":778,"pinji":4,"qixian":60,"shouyilv":8.0},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89},{"id":997,"jine":767,"pinji":5,"qixian":626,"shouyilv":7.0},{"id":999,"jine":237,"pinji":5,"qixian":320,"shouyilv":6.5},{"id":914,"jine":331,"pinji":4,"qixian":7,"shouyilv":12.09},{"id":1001,"jine":971,"pinji":5,"qixian":273,"shouyilv":6.5},{"id":731,"jine":562,"pinji":3,"qixian":217,"shouyilv":8.67},{"id":884,"jine":352,"pinji":4,"qixian":8,"shouyilv":10.0},{"id":1013,"jine":544,"pinji":5,"qixian":167,"shouyilv":6.7},{"id":761,"jine":854,"pinji":3,"qixian":185,"shouyilv":8.67},{"id":892,"jine":913,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":894,"jine":367,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":896,"jine":660,"pinji":4,"qixian":11,"shouyilv":12.55}],"num":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0],"sum":5196.2785}
+2017-09-21 11:15:04,731 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 11:15:12,543 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:15:34,985 INFO (ContentController.java:63)- {"pro":null,"num":[2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":643.7531}
+2017-09-21 11:23:41,178 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 11652 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:23:41,180 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:23:41,180 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:23:44,265 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.291 seconds (JVM running for 3.82)
+2017-09-21 11:31:44,858 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26296 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:31:44,859 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:31:44,860 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:31:47,803 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.179 seconds (JVM running for 3.699)
+2017-09-21 11:32:05,782 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:32:30,991 INFO (ContentController.java:63)- {"pro":null,"num":[2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":643.7531}
+2017-09-21 11:35:48,809 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19692 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:35:48,811 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:35:48,811 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:35:51,970 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.358 seconds (JVM running for 3.918)
+2017-09-21 11:35:58,898 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:36:23,899 INFO (ContentController.java:63)- {"pro":null,"num":[2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":643.7531}
+2017-09-21 11:38:36,893 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 21744 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:38:36,895 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:38:36,895 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:38:39,913 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.214 seconds (JVM running for 3.758)
+2017-09-21 11:38:51,226 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:40:25,212 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 8756 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:40:25,215 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:40:25,215 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:40:28,275 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.258 seconds (JVM running for 3.792)
+2017-09-21 11:40:41,107 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:41:09,354 INFO (ContentController.java:63)- {"pro":null,"num":[2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":643.7531}
+2017-09-21 11:49:37,791 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 13936 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:49:37,792 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:49:37,793 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:49:41,003 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.42 seconds (JVM running for 3.979)
+2017-09-21 11:50:03,032 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:52:29,852 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 9248 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:52:29,854 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:52:29,855 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:52:32,769 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.099 seconds (JVM running for 3.654)
+2017-09-21 11:52:47,482 INFO (ContentController.java:36)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 11:52:53,097 INFO (ContentController.java:42)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 11:53:10,118 INFO (ContentController.java:63)- {"pro":[{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89}],"num":[1,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":666.634}
+2017-09-21 11:59:03,142 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4076 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 11:59:03,144 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 11:59:03,144 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 11:59:06,030 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.093 seconds (JVM running for 3.59)
+2017-09-21 11:59:18,687 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 11:59:22,331 INFO (ContentController.java:44)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 12:00:42,223 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 23984 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 12:00:42,225 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 12:00:42,226 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 12:00:45,160 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.133 seconds (JVM running for 3.66)
+2017-09-21 12:00:54,408 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 12:01:11,419 INFO (ContentController.java:68)- {"pro":[{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89},{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5}],"num":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18],"sum":666.634}
+2017-09-21 12:02:35,629 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 3176 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 12:02:35,631 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 12:02:35,631 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 12:02:38,716 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.283 seconds (JVM running for 3.818)
+2017-09-21 12:02:49,921 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 12:03:06,961 INFO (ContentController.java:68)- {"pro":[{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89}],"num":[18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":666.634}
+2017-09-21 13:18:19,350 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 6448 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:18:19,352 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:18:19,353 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:18:22,268 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.111 seconds (JVM running for 3.617)
+2017-09-21 13:18:31,922 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 13:18:41,062 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 13:18:57,691 INFO (ContentController.java:68)- {"pro":[{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89}],"num":[18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":666.634}
+2017-09-21 13:21:41,270 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22416 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:21:41,272 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:21:41,272 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:21:44,084 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.008 seconds (JVM running for 3.559)
+2017-09-21 13:23:26,431 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 4488 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:23:26,433 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:23:26,433 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:23:29,209 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 2.966 seconds (JVM running for 3.557)
+2017-09-21 13:27:50,424 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25348 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:27:50,426 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:27:50,426 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:27:53,274 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.05 seconds (JVM running for 3.58)
+2017-09-21 13:28:59,939 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 22936 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:28:59,942 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:28:59,942 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:29:03,408 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.667 seconds (JVM running for 4.216)
+2017-09-21 13:31:15,380 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 10124 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:31:15,383 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:31:15,384 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:31:18,697 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.527 seconds (JVM running for 4.15)
+2017-09-21 13:37:18,166 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 25052 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:37:18,169 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:37:18,169 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:37:21,271 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.296 seconds (JVM running for 3.878)
+2017-09-21 13:41:25,559 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 18852 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:41:25,561 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:41:25,561 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:41:28,425 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.065 seconds (JVM running for 3.635)
+2017-09-21 13:41:48,781 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 16408 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:41:48,784 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:41:48,784 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:41:51,542 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.009 seconds (JVM running for 3.674)
+2017-09-21 13:42:12,424 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 20708 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:42:12,426 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:42:12,427 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:42:15,502 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.272 seconds (JVM running for 3.827)
+2017-09-21 13:42:38,816 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 19344 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:42:38,818 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:42:38,819 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:42:41,985 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.37 seconds (JVM running for 3.89)
+2017-09-21 13:44:39,997 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 17908 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:44:39,998 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:44:39,999 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:44:42,923 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.114 seconds (JVM running for 3.647)
+2017-09-21 13:46:45,785 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 13:46:52,840 INFO (UserController.java:50)- ---->>>>----login---->>>>----2222+
+
+2017-09-21 13:47:05,942 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 13:47:12,678 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 13:47:40,120 INFO (ContentController.java:68)- {"pro":[{"id":897,"jine":221,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":838,"jine":862,"pinji":4,"qixian":12,"shouyilv":13.0},{"id":1026,"jine":631,"pinji":5,"qixian":247,"shouyilv":6.6},{"id":1068,"jine":915,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":903,"jine":475,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":861,"jine":470,"pinji":4,"qixian":180,"shouyilv":8.0},{"id":1017,"jine":220,"pinji":5,"qixian":197,"shouyilv":6.7},{"id":1036,"jine":686,"pinji":5,"qixian":177,"shouyilv":6.5},{"id":1034,"jine":806,"pinji":5,"qixian":92,"shouyilv":7.0},{"id":913,"jine":269,"pinji":4,"qixian":210,"shouyilv":12.09},{"id":89,"jine":959,"pinji":1,"qixian":20,"shouyilv":8.0},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":1047,"jine":895,"pinji":5,"qixian":149,"shouyilv":6.0},{"id":1048,"jine":212,"pinji":5,"qixian":327,"shouyilv":6.9},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":944,"jine":532,"pinji":4,"qixian":5,"shouyilv":12.0},{"id":925,"jine":598,"pinji":4,"qixian":270,"shouyilv":12.5},{"id":1054,"jine":216,"pinji":5,"qixian":730,"shouyilv":7.1},{"id":1110,"jine":649,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":927,"jine":496,"pinji":4,"qixian":300,"shouyilv":12.5},{"id":946,"jine":226,"pinji":4,"qixian":11,"shouyilv":11.01},{"id":937,"jine":733,"pinji":4,"qixian":150,"shouyilv":11.01},{"id":1053,"jine":359,"pinji":5,"qixian":362,"shouyilv":6.5},{"id":812,"jine":238,"pinji":4,"qixian":12,"shouyilv":9.8},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":816,"jine":980,"pinji":4,"qixian":1,"shouyilv":7.2},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":969,"jine":538,"pinji":4,"qixian":120,"shouyilv":11.03},{"id":819,"jine":959,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":1077,"jine":882,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1078,"jine":846,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":1079,"jine":318,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":824,"jine":313,"pinji":4,"qixian":3,"shouyilv":7.6},{"id":825,"jine":456,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":826,"jine":577,"pinji":4,"qixian":6,"shouyilv":8.5},{"id":955,"jine":879,"pinji":4,"qixian":210,"shouyilv":11.71},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1091,"jine":451,"pinji":5,"qixian":30,"shouyilv":7.2},{"id":847,"jine":546,"pinji":4,"qixian":180,"shouyilv":12.0},{"id":966,"jine":489,"pinji":4,"qixian":4,"shouyilv":10.3},{"id":1058,"jine":649,"pinji":5,"qixian":6,"shouyilv":7.2},{"id":1097,"jine":888,"pinji":5,"qixian":720,"shouyilv":10.5},{"id":842,"jine":941,"pinji":4,"qixian":11,"shouyilv":12.52},{"id":845,"jine":932,"pinji":4,"qixian":240,"shouyilv":12.0},{"id":974,"jine":875,"pinji":4,"qixian":4,"shouyilv":10.51},{"id":1103,"jine":878,"pinji":5,"qixian":7,"shouyilv":4.0},{"id":848,"jine":852,"pinji":4,"qixian":6,"shouyilv":12.0},{"id":889,"jine":383,"pinji":4,"qixian":180,"shouyilv":11.3},{"id":980,"jine":290,"pinji":4,"qixian":9,"shouyilv":12.55},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":985,"jine":233,"pinji":5,"qixian":692,"shouyilv":7.3},{"id":986,"jine":709,"pinji":5,"qixian":1080,"shouyilv":11.2},{"id":859,"jine":738,"pinji":4,"qixian":150,"shouyilv":8.0},{"id":860,"jine":828,"pinji":4,"qixian":5,"shouyilv":8.0},{"id":989,"jine":439,"pinji":5,"qixian":36,"shouyilv":11.2},{"id":827,"jine":678,"pinji":4,"qixian":360,"shouyilv":9.8},{"id":1119,"jine":715,"pinji":5,"qixian":18,"shouyilv":10.0},{"id":866,"jine":713,"pinji":4,"qixian":9,"shouyilv":12.45},{"id":867,"jine":778,"pinji":4,"qixian":60,"shouyilv":8.0},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89},{"id":997,"jine":767,"pinji":5,"qixian":626,"shouyilv":7.0},{"id":999,"jine":237,"pinji":5,"qixian":320,"shouyilv":6.5},{"id":914,"jine":331,"pinji":4,"qixian":7,"shouyilv":12.09},{"id":1001,"jine":971,"pinji":5,"qixian":273,"shouyilv":6.5},{"id":731,"jine":562,"pinji":3,"qixian":217,"shouyilv":8.67},{"id":884,"jine":352,"pinji":4,"qixian":8,"shouyilv":10.0},{"id":1013,"jine":544,"pinji":5,"qixian":167,"shouyilv":6.7},{"id":761,"jine":854,"pinji":3,"qixian":185,"shouyilv":8.67},{"id":892,"jine":913,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":894,"jine":367,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":896,"jine":660,"pinji":4,"qixian":11,"shouyilv":12.55}],"num":[2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":167.531}
+2017-09-21 13:50:24,094 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 9056 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:50:24,096 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:50:24,096 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:50:27,083 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.192 seconds (JVM running for 3.687)
+2017-09-21 13:50:44,118 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 13:50:50,142 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 13:51:16,879 INFO (ContentController.java:68)- {"pro":[{"id":838,"jine":862,"pinji":4,"qixian":12,"shouyilv":13.0},{"id":914,"jine":331,"pinji":4,"qixian":7,"shouyilv":12.09},{"id":897,"jine":221,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":1026,"jine":631,"pinji":5,"qixian":247,"shouyilv":6.6},{"id":1068,"jine":915,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":903,"jine":475,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":861,"jine":470,"pinji":4,"qixian":180,"shouyilv":8.0},{"id":1017,"jine":220,"pinji":5,"qixian":197,"shouyilv":6.7},{"id":1036,"jine":686,"pinji":5,"qixian":177,"shouyilv":6.5},{"id":1034,"jine":806,"pinji":5,"qixian":92,"shouyilv":7.0},{"id":913,"jine":269,"pinji":4,"qixian":210,"shouyilv":12.09},{"id":89,"jine":959,"pinji":1,"qixian":20,"shouyilv":8.0},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":1047,"jine":895,"pinji":5,"qixian":149,"shouyilv":6.0},{"id":1048,"jine":212,"pinji":5,"qixian":327,"shouyilv":6.9},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":944,"jine":532,"pinji":4,"qixian":5,"shouyilv":12.0},{"id":925,"jine":598,"pinji":4,"qixian":270,"shouyilv":12.5},{"id":1054,"jine":216,"pinji":5,"qixian":730,"shouyilv":7.1},{"id":1110,"jine":649,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":927,"jine":496,"pinji":4,"qixian":300,"shouyilv":12.5},{"id":946,"jine":226,"pinji":4,"qixian":11,"shouyilv":11.01},{"id":937,"jine":733,"pinji":4,"qixian":150,"shouyilv":11.01},{"id":1053,"jine":359,"pinji":5,"qixian":362,"shouyilv":6.5},{"id":812,"jine":238,"pinji":4,"qixian":12,"shouyilv":9.8},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":816,"jine":980,"pinji":4,"qixian":1,"shouyilv":7.2},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":969,"jine":538,"pinji":4,"qixian":120,"shouyilv":11.03},{"id":819,"jine":959,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":1077,"jine":882,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1078,"jine":846,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":1079,"jine":318,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":824,"jine":313,"pinji":4,"qixian":3,"shouyilv":7.6},{"id":825,"jine":456,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":826,"jine":577,"pinji":4,"qixian":6,"shouyilv":8.5},{"id":955,"jine":879,"pinji":4,"qixian":210,"shouyilv":11.71},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1091,"jine":451,"pinji":5,"qixian":30,"shouyilv":7.2},{"id":847,"jine":546,"pinji":4,"qixian":180,"shouyilv":12.0},{"id":966,"jine":489,"pinji":4,"qixian":4,"shouyilv":10.3},{"id":1058,"jine":649,"pinji":5,"qixian":6,"shouyilv":7.2},{"id":1097,"jine":888,"pinji":5,"qixian":720,"shouyilv":10.5},{"id":842,"jine":941,"pinji":4,"qixian":11,"shouyilv":12.52},{"id":845,"jine":932,"pinji":4,"qixian":240,"shouyilv":12.0},{"id":974,"jine":875,"pinji":4,"qixian":4,"shouyilv":10.51},{"id":1103,"jine":878,"pinji":5,"qixian":7,"shouyilv":4.0},{"id":848,"jine":852,"pinji":4,"qixian":6,"shouyilv":12.0},{"id":889,"jine":383,"pinji":4,"qixian":180,"shouyilv":11.3},{"id":980,"jine":290,"pinji":4,"qixian":9,"shouyilv":12.55},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":985,"jine":233,"pinji":5,"qixian":692,"shouyilv":7.3},{"id":986,"jine":709,"pinji":5,"qixian":1080,"shouyilv":11.2},{"id":859,"jine":738,"pinji":4,"qixian":150,"shouyilv":8.0},{"id":860,"jine":828,"pinji":4,"qixian":5,"shouyilv":8.0},{"id":989,"jine":439,"pinji":5,"qixian":36,"shouyilv":11.2},{"id":827,"jine":678,"pinji":4,"qixian":360,"shouyilv":9.8},{"id":1119,"jine":715,"pinji":5,"qixian":18,"shouyilv":10.0},{"id":866,"jine":713,"pinji":4,"qixian":9,"shouyilv":12.45},{"id":867,"jine":778,"pinji":4,"qixian":60,"shouyilv":8.0},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89},{"id":997,"jine":767,"pinji":5,"qixian":626,"shouyilv":7.0},{"id":999,"jine":237,"pinji":5,"qixian":320,"shouyilv":6.5},{"id":1001,"jine":971,"pinji":5,"qixian":273,"shouyilv":6.5},{"id":731,"jine":562,"pinji":3,"qixian":217,"shouyilv":8.67},{"id":884,"jine":352,"pinji":4,"qixian":8,"shouyilv":10.0},{"id":1013,"jine":544,"pinji":5,"qixian":167,"shouyilv":6.7},{"id":761,"jine":854,"pinji":3,"qixian":185,"shouyilv":8.67},{"id":892,"jine":913,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":894,"jine":367,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":896,"jine":660,"pinji":4,"qixian":11,"shouyilv":12.55}],"num":[1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":152.0779}
+2017-09-21 13:54:41,478 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 5668 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:54:41,480 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:54:41,480 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:54:44,539 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.261 seconds (JVM running for 3.823)
+2017-09-21 13:55:54,802 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 13:56:00,901 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 13:56:28,157 INFO (ContentController.java:68)- {"pro":[{"id":927,"jine":496,"pinji":4,"qixian":300,"shouyilv":12.5},{"id":897,"jine":221,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":1026,"jine":631,"pinji":5,"qixian":247,"shouyilv":6.6},{"id":1068,"jine":915,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":903,"jine":475,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":861,"jine":470,"pinji":4,"qixian":180,"shouyilv":8.0},{"id":1017,"jine":220,"pinji":5,"qixian":197,"shouyilv":6.7},{"id":1036,"jine":686,"pinji":5,"qixian":177,"shouyilv":6.5},{"id":1034,"jine":806,"pinji":5,"qixian":92,"shouyilv":7.0},{"id":913,"jine":269,"pinji":4,"qixian":210,"shouyilv":12.09},{"id":89,"jine":959,"pinji":1,"qixian":20,"shouyilv":8.0},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":1047,"jine":895,"pinji":5,"qixian":149,"shouyilv":6.0},{"id":1048,"jine":212,"pinji":5,"qixian":327,"shouyilv":6.9},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":944,"jine":532,"pinji":4,"qixian":5,"shouyilv":12.0},{"id":925,"jine":598,"pinji":4,"qixian":270,"shouyilv":12.5},{"id":1054,"jine":216,"pinji":5,"qixian":730,"shouyilv":7.1},{"id":1110,"jine":649,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":838,"jine":862,"pinji":4,"qixian":12,"shouyilv":13.0},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":946,"jine":226,"pinji":4,"qixian":11,"shouyilv":11.01},{"id":937,"jine":733,"pinji":4,"qixian":150,"shouyilv":11.01},{"id":1053,"jine":359,"pinji":5,"qixian":362,"shouyilv":6.5},{"id":812,"jine":238,"pinji":4,"qixian":12,"shouyilv":9.8},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":816,"jine":980,"pinji":4,"qixian":1,"shouyilv":7.2},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":969,"jine":538,"pinji":4,"qixian":120,"shouyilv":11.03},{"id":819,"jine":959,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":1077,"jine":882,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1078,"jine":846,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":1079,"jine":318,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":824,"jine":313,"pinji":4,"qixian":3,"shouyilv":7.6},{"id":825,"jine":456,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":826,"jine":577,"pinji":4,"qixian":6,"shouyilv":8.5},{"id":955,"jine":879,"pinji":4,"qixian":210,"shouyilv":11.71},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1091,"jine":451,"pinji":5,"qixian":30,"shouyilv":7.2},{"id":847,"jine":546,"pinji":4,"qixian":180,"shouyilv":12.0},{"id":966,"jine":489,"pinji":4,"qixian":4,"shouyilv":10.3},{"id":1058,"jine":649,"pinji":5,"qixian":6,"shouyilv":7.2},{"id":1097,"jine":888,"pinji":5,"qixian":720,"shouyilv":10.5},{"id":842,"jine":941,"pinji":4,"qixian":11,"shouyilv":12.52},{"id":845,"jine":932,"pinji":4,"qixian":240,"shouyilv":12.0},{"id":974,"jine":875,"pinji":4,"qixian":4,"shouyilv":10.51},{"id":1103,"jine":878,"pinji":5,"qixian":7,"shouyilv":4.0},{"id":848,"jine":852,"pinji":4,"qixian":6,"shouyilv":12.0},{"id":889,"jine":383,"pinji":4,"qixian":180,"shouyilv":11.3},{"id":980,"jine":290,"pinji":4,"qixian":9,"shouyilv":12.55},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":985,"jine":233,"pinji":5,"qixian":692,"shouyilv":7.3},{"id":986,"jine":709,"pinji":5,"qixian":1080,"shouyilv":11.2},{"id":859,"jine":738,"pinji":4,"qixian":150,"shouyilv":8.0},{"id":860,"jine":828,"pinji":4,"qixian":5,"shouyilv":8.0},{"id":989,"jine":439,"pinji":5,"qixian":36,"shouyilv":11.2},{"id":827,"jine":678,"pinji":4,"qixian":360,"shouyilv":9.8},{"id":1119,"jine":715,"pinji":5,"qixian":18,"shouyilv":10.0},{"id":866,"jine":713,"pinji":4,"qixian":9,"shouyilv":12.45},{"id":867,"jine":778,"pinji":4,"qixian":60,"shouyilv":8.0},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89},{"id":997,"jine":767,"pinji":5,"qixian":626,"shouyilv":7.0},{"id":999,"jine":237,"pinji":5,"qixian":320,"shouyilv":6.5},{"id":914,"jine":331,"pinji":4,"qixian":7,"shouyilv":12.09},{"id":1001,"jine":971,"pinji":5,"qixian":273,"shouyilv":6.5},{"id":731,"jine":562,"pinji":3,"qixian":217,"shouyilv":8.67},{"id":884,"jine":352,"pinji":4,"qixian":8,"shouyilv":10.0},{"id":1013,"jine":544,"pinji":5,"qixian":167,"shouyilv":6.7},{"id":761,"jine":854,"pinji":3,"qixian":185,"shouyilv":8.67},{"id":892,"jine":913,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":894,"jine":367,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":896,"jine":660,"pinji":4,"qixian":11,"shouyilv":12.55}],"num":[2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":124.0}
+2017-09-21 13:58:33,150 INFO (StartupInfoLogger.java:48)- Starting InvestApplication on DESKTOP-C4IO7G9 with PID 26292 (E:\code\invest\target\classes started by panyu in E:\code\invest)
+2017-09-21 13:58:33,152 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2017-09-21 13:58:33,152 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-09-21 13:58:36,083 INFO (StartupInfoLogger.java:57)- Started InvestApplication in 3.146 seconds (JVM running for 3.766)
+2017-09-21 14:01:37,904 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 14:01:43,808 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 14:01:59,927 INFO (ContentController.java:68)- {"pro":[{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89}],"num":[18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":666.634}
+2017-09-21 14:02:33,768 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 14:02:41,494 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 14:02:57,451 INFO (ContentController.java:68)- {"pro":[{"id":386,"jine":245,"pinji":3,"qixian":540,"shouyilv":13.5},{"id":898,"jine":568,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":876,"jine":230,"pinji":4,"qixian":6,"shouyilv":10.6},{"id":902,"jine":494,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":397,"jine":529,"pinji":3,"qixian":126,"shouyilv":9.08},{"id":910,"jine":837,"pinji":4,"qixian":8,"shouyilv":12.0},{"id":530,"jine":342,"pinji":3,"qixian":612,"shouyilv":8.89},{"id":406,"jine":283,"pinji":3,"qixian":149,"shouyilv":8.56},{"id":663,"jine":376,"pinji":3,"qixian":984,"shouyilv":8.89},{"id":280,"jine":4722,"pinji":2,"qixian":9,"shouyilv":12.0},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":440,"jine":814,"pinji":3,"qixian":263,"shouyilv":9.78},{"id":669,"jine":628,"pinji":3,"qixian":563,"shouyilv":8.89},{"id":926,"jine":533,"pinji":4,"qixian":9,"shouyilv":12.5},{"id":1057,"jine":776,"pinji":5,"qixian":180,"shouyilv":7.2},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":804,"jine":848,"pinji":3,"qixian":12,"shouyilv":9.8},{"id":809,"jine":295,"pinji":4,"qixian":720,"shouyilv":10.4},{"id":938,"jine":628,"pinji":4,"qixian":5,"shouyilv":11.01},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":51,"jine":2289,"pinji":1,"qixian":6,"shouyilv":11.3},{"id":568,"jine":752,"pinji":3,"qixian":167,"shouyilv":8.67},{"id":1083,"jine":471,"pinji":5,"qixian":180,"shouyilv":8.0},{"id":957,"jine":867,"pinji":4,"qixian":120,"shouyilv":11.02},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1089,"jine":670,"pinji":5,"qixian":30,"shouyilv":7.0},{"id":1090,"jine":350,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":844,"jine":248,"pinji":4,"qixian":11,"shouyilv":12.5},{"id":839,"jine":743,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":1096,"jine":343,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1098,"jine":444,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":1100,"jine":377,"pinji":5,"qixian":1,"shouyilv":6.8},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":315,"jine":341,"pinji":3,"qixian":18,"shouyilv":11.0},{"id":1121,"jine":586,"pinji":5,"qixian":36,"shouyilv":11.0},{"id":274,"jine":2868,"pinji":2,"qixian":6,"shouyilv":9.3},{"id":617,"jine":369,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":875,"jine":262,"pinji":4,"qixian":180,"shouyilv":10.6},{"id":620,"jine":618,"pinji":3,"qixian":150,"shouyilv":8.33},{"id":757,"jine":996,"pinji":3,"qixian":262,"shouyilv":8.67},{"id":374,"jine":816,"pinji":3,"qixian":30,"shouyilv":9.0},{"id":506,"jine":676,"pinji":3,"qixian":50,"shouyilv":8.33},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89}],"num":[18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":666.634}
+2017-09-21 14:03:28,216 INFO (UserController.java:56)- -->login-ing--please wait
+2017-09-21 14:03:30,756 INFO (UserController.java:50)- ---->>>>----login---->>>>----2222+
+
+2017-09-21 14:03:42,225 INFO (ContentController.java:38)- ---->>>>----showAllProductDetail---->>>>----
+2017-09-21 14:03:49,806 INFO (ContentController.java:45)- ---->>>>----searchProductDetail---->>>>----
+2017-09-21 14:04:18,214 INFO (ContentController.java:68)- {"pro":[{"id":927,"jine":496,"pinji":4,"qixian":300,"shouyilv":12.5},{"id":897,"jine":221,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":1026,"jine":631,"pinji":5,"qixian":247,"shouyilv":6.6},{"id":1068,"jine":915,"pinji":5,"qixian":24,"shouyilv":10.5},{"id":903,"jine":475,"pinji":4,"qixian":330,"shouyilv":12.51},{"id":861,"jine":470,"pinji":4,"qixian":180,"shouyilv":8.0},{"id":1017,"jine":220,"pinji":5,"qixian":197,"shouyilv":6.7},{"id":1036,"jine":686,"pinji":5,"qixian":177,"shouyilv":6.5},{"id":1034,"jine":806,"pinji":5,"qixian":92,"shouyilv":7.0},{"id":913,"jine":269,"pinji":4,"qixian":210,"shouyilv":12.09},{"id":89,"jine":959,"pinji":1,"qixian":20,"shouyilv":8.0},{"id":466,"jine":213,"pinji":3,"qixian":3,"shouyilv":8.0},{"id":1047,"jine":895,"pinji":5,"qixian":149,"shouyilv":6.0},{"id":1048,"jine":212,"pinji":5,"qixian":327,"shouyilv":6.9},{"id":1049,"jine":991,"pinji":5,"qixian":32,"shouyilv":6.8},{"id":944,"jine":532,"pinji":4,"qixian":5,"shouyilv":12.0},{"id":925,"jine":598,"pinji":4,"qixian":270,"shouyilv":12.5},{"id":1054,"jine":216,"pinji":5,"qixian":730,"shouyilv":7.1},{"id":1110,"jine":649,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":838,"jine":862,"pinji":4,"qixian":12,"shouyilv":13.0},{"id":930,"jine":715,"pinji":4,"qixian":10,"shouyilv":12.56},{"id":946,"jine":226,"pinji":4,"qixian":11,"shouyilv":11.01},{"id":937,"jine":733,"pinji":4,"qixian":150,"shouyilv":11.01},{"id":1053,"jine":359,"pinji":5,"qixian":362,"shouyilv":6.5},{"id":812,"jine":238,"pinji":4,"qixian":12,"shouyilv":9.8},{"id":814,"jine":840,"pinji":4,"qixian":14,"shouyilv":12.8},{"id":816,"jine":980,"pinji":4,"qixian":1,"shouyilv":7.2},{"id":207,"jine":3124,"pinji":1,"qixian":90,"shouyilv":8.5},{"id":969,"jine":538,"pinji":4,"qixian":120,"shouyilv":11.03},{"id":819,"jine":959,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":1077,"jine":882,"pinji":5,"qixian":12,"shouyilv":9.5},{"id":1078,"jine":846,"pinji":5,"qixian":60,"shouyilv":7.2},{"id":1079,"jine":318,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":824,"jine":313,"pinji":4,"qixian":3,"shouyilv":7.6},{"id":825,"jine":456,"pinji":4,"qixian":180,"shouyilv":8.5},{"id":826,"jine":577,"pinji":4,"qixian":6,"shouyilv":8.5},{"id":955,"jine":879,"pinji":4,"qixian":210,"shouyilv":11.71},{"id":1086,"jine":210,"pinji":5,"qixian":1,"shouyilv":7.0},{"id":1091,"jine":451,"pinji":5,"qixian":30,"shouyilv":7.2},{"id":847,"jine":546,"pinji":4,"qixian":180,"shouyilv":12.0},{"id":966,"jine":489,"pinji":4,"qixian":4,"shouyilv":10.3},{"id":1058,"jine":649,"pinji":5,"qixian":6,"shouyilv":7.2},{"id":1097,"jine":888,"pinji":5,"qixian":720,"shouyilv":10.5},{"id":842,"jine":941,"pinji":4,"qixian":11,"shouyilv":12.52},{"id":845,"jine":932,"pinji":4,"qixian":240,"shouyilv":12.0},{"id":974,"jine":875,"pinji":4,"qixian":4,"shouyilv":10.51},{"id":1103,"jine":878,"pinji":5,"qixian":7,"shouyilv":4.0},{"id":848,"jine":852,"pinji":4,"qixian":6,"shouyilv":12.0},{"id":889,"jine":383,"pinji":4,"qixian":180,"shouyilv":11.3},{"id":980,"jine":290,"pinji":4,"qixian":9,"shouyilv":12.55},{"id":213,"jine":1695,"pinji":1,"qixian":30,"shouyilv":7.5},{"id":854,"jine":843,"pinji":4,"qixian":7,"shouyilv":11.5},{"id":1111,"jine":907,"pinji":5,"qixian":2,"shouyilv":7.2},{"id":985,"jine":233,"pinji":5,"qixian":692,"shouyilv":7.3},{"id":986,"jine":709,"pinji":5,"qixian":1080,"shouyilv":11.2},{"id":859,"jine":738,"pinji":4,"qixian":150,"shouyilv":8.0},{"id":860,"jine":828,"pinji":4,"qixian":5,"shouyilv":8.0},{"id":989,"jine":439,"pinji":5,"qixian":36,"shouyilv":11.2},{"id":827,"jine":678,"pinji":4,"qixian":360,"shouyilv":9.8},{"id":1119,"jine":715,"pinji":5,"qixian":18,"shouyilv":10.0},{"id":866,"jine":713,"pinji":4,"qixian":9,"shouyilv":12.45},{"id":867,"jine":778,"pinji":4,"qixian":60,"shouyilv":8.0},{"id":764,"jine":970,"pinji":3,"qixian":597,"shouyilv":8.89},{"id":997,"jine":767,"pinji":5,"qixian":626,"shouyilv":7.0},{"id":999,"jine":237,"pinji":5,"qixian":320,"shouyilv":6.5},{"id":914,"jine":331,"pinji":4,"qixian":7,"shouyilv":12.09},{"id":1001,"jine":971,"pinji":5,"qixian":273,"shouyilv":6.5},{"id":731,"jine":562,"pinji":3,"qixian":217,"shouyilv":8.67},{"id":884,"jine":352,"pinji":4,"qixian":8,"shouyilv":10.0},{"id":1013,"jine":544,"pinji":5,"qixian":167,"shouyilv":6.7},{"id":761,"jine":854,"pinji":3,"qixian":185,"shouyilv":8.67},{"id":892,"jine":913,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":893,"jine":817,"pinji":4,"qixian":330,"shouyilv":12.55},{"id":894,"jine":367,"pinji":4,"qixian":11,"shouyilv":12.55},{"id":896,"jine":660,"pinji":4,"qixian":11,"shouyilv":12.55}],"num":[2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sum":124.0}

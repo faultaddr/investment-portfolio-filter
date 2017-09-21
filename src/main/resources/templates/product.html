@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title id='Description'>In this demo jqxGrid uses a virtualized paging which enables you to handle very large data
+        sets without any impact on client side performance.</title>
+    <link rel="stylesheet" href="/table/jqwidgets/styles/jqx.base.css" type="text/css"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1 minimum-scale=1"/>
+    <script type="text/javascript" src="/table/scripts/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxcore.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxdata.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxbuttons.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxscrollbar.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxmenu.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxlistbox.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxdropdownlist.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxgrid.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxgrid.pager.js"></script>
+    <script type="text/javascript" src="/table/jqwidgets/jqxgrid.selection.js"></script>
+    <script type="text/javascript" src="/table/scripts/demos.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            alert("aaa");
+            var url = "/showProduct";
+            // prepare the data
+            var source =
+                {
+                    datatype: "json",
+                    type: sync,
+
+                    datafields: [
+                        {name: 'id', type: 'int'},
+                        {name: 'pinji', type: 'int'},
+                        {name: 'shouyilv', type: 'int'},
+                        {name: 'qixian', type: 'int'},
+                        {name: 'jine', type: 'int'}
+                    ],
+                    id: 'id',
+                    url: url
+                };
+            //alert(source);
+            var dataAdapter = new $.jqx.dataAdapter(source, {
+                contentType: 'application/json; charset=utf-8',
+                loadComplete: function () {
+                    var length = dataAdapter.records.length;
+                    var records = dataAdapter.records;
+                    var record = records[0];
+                    alert(record.qixian);
+                    alert(length);
+                },
+                error: function (xhr, status, error) {
+                    alert(JSON.stringify(xhr));
+                }
+                ,
+            });
+            $("#grid").jqxGrid(
+                {
+                    width: getWidth('Grid'),
+                    source: dataAdapter,
+                    columnsresize: true,
+                    columns: [
+                        {text: '产品编号', datafield: 'id', width: 250},
+                        {text: '产品评级', datafield: 'pinji', width: 250},
+                        {text: '收益率', datafield: 'shouyilv', width: 180},
+                        {text: '投资期限', datafield: 'qixian', width: 120},
+                        {text: '投资金额', datafield: 'jine', minwidth: 120}
+                    ]
+                });
+        });
+    </script>
+</head>
+<body class='default'>
+<table id="dataGrid"></table>
+<div id="grid"></div>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>sign in</title>
+    <style>
+        div{
+            background:#009FCC;
+            font-size:24px;
+            padding:5px;
+            color:white;
+        }
+        form{
+            background: #F8F8FF ;
+            border:#357FC4 solid 1px;
+            color:#575454;
+            width:400px;
+            margin:20px auto;
+            font-size:15px;
+        }
+        table{
+            margin:10px auto;
+        }
+        a{
+            text-decoration:none;
+        }
+        input[type="button"]{
+            background:#228B22;
+            color:white;
+            font-size:15px;
+            font-weight:bold;
+            width:120px;
+            height:40px;
+        }
+        td:first-child{
+            text-align:right;
+            padding:0 5px;
+        }
+        td:only-child{
+            text-align:center;
+            font-size:12px;
+        }
+        span:before{
+            content:"* ";
+            color:red;
+        }
+        input[type="text"]:read-only{
+            border:#888484 solid 2px;
+            background:#888484;
+            font-weight:bold;
+        }
+        input[type="text"]:hover{
+            background:#EFD9AC;
+        }
+    </style>
+
+<script>
+    function get_cookie(Name) {
+        var search = Name + "="//查询检索的值
+        var returnvalue = "";//返回值
+        if (document.cookie.length > 0) {
+            sd = document.cookie.indexOf(search);
+            if (sd!= -1) {
+                sd += search.length;
+                end = document.cookie.indexOf(";", sd);
+                if (end == -1)
+                    end = document.cookie.length;
+                //unescape() 函数可对通过 escape() 编码的字符串进行解码。
+                returnvalue=unescape(document.cookie.substring(sd, end))
+            }
+        }
+        return returnvalue;
+    }
+    function  setUserId() {
+        document.getElementById('userId').value=get_cookie("userId");
+    }
+</script>
+</head>
+<body onload="setUserId()">
+<form action="/updateInfo">
+    <div>完善用户信息</div>
+    <table>
+        <tr><td>用户Id</td><td><input readonly="readonly" type="text" name="userId" id="userId"/></td></tr>
+        <tr><td><span>工作时间</span></td><td><input type="text" name="worklife" id="worklife"/></td></tr>
+        <tr><td><span>年龄</span></td><td><input type="text" name="age" id="age" /></td></tr>
+        <tr><td><span>婚姻情况</span></td><td><input type="password" name="marry" id="marry" /></td></tr>
+        <tr><td><span>教育状况（）</span></td><td><input type="password" name="education" id="education" /></td></tr>
+        <tr><td>性别</td><td><input type="radio" id="male" name="sex" checked />男<input type="radio" id="female" name="sex" />女</td></tr>
+        <tr><td>信用卡</td><td><input type="text" name="creditcard" id="creditcard" /></td></tr>
+        <tr><td>负债情况</td><td><input type="text" name="loan" id="loan" /></td></tr>
+        <tr><td>家庭状况</td><td><input type="text" name="family" id="family" /></td></tr>
+        <tr><td>还款状况</td><td><input type="text" name="huankuan" id="huankuan"/></td></tr>
+        <tr><td>月收入</td><td><input type="text" name="income" id="income" /></td></tr>
+        <tr><td>贷款用途</td><td><input type="text" name="yongtu" id="yongtu" /></td></tr>
+        <tr><td>房产价值</td><td><input type="text" name="house" id="house"/></td></tr>
+        <tr><td>居住地</td><td><input type="text" name="residence" id="residence" /></td></tr>
+        <tr><td>车产价值</td><td><input type="text" name="car" id="car"/></td></tr>
+        <tr><td>抵押物价值</td><td><input type="text" name="diyawu" id="diyawu" /></td></tr>
+        <tr><td colspan="2"><input type="submit" name="submit" value="立即更新信息"/></td></tr>
+    </table>
+</form>
+</body>
+</html>

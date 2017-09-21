@@ -1,8 +1,4 @@
 # Investment-portfolio-filter(实训大作业)
-## 流程图
-![LC](LC.jpg)
-
-
 ## 用户画像
 ### 性别
 ![GD](https://raw.githubusercontent.com/David-AJ/investment-portfolio-filter/master/Gender.jpg)

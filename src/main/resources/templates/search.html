@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>选择我们的产品</title>
+    <link rel="stylesheet" type="text/css" href="/search/css/bootstrap.css">
+    <link rel="stylesheet" href="/search/css/style.css">
+    <link rel="stylesheet" href="/table/css/amazeui.min.css"/>
+    <link rel="stylesheet" href="/table/css/amazeui.datatables.min.css"/>
+    <link rel="stylesheet" href="/table/css/app.css">
+    <script>
+        function get_cookie(Name) {
+            var search = Name + "="//查询检索的值
+            var returnvalue = "";//返回值
+            if (document.cookie.length > 0) {
+                sd = document.cookie.indexOf(search);
+                if (sd!= -1) {
+                    sd += search.length;
+                    end = document.cookie.indexOf(";", sd);
+                    if (end == -1)
+                        end = document.cookie.length;
+                    //unescape() 函数可对通过 escape() 编码的字符串进行解码。
+                    returnvalue=unescape(document.cookie.substring(sd, end))
+                }
+            }
+            return returnvalue;
+        }
+        function showGroup() {
+            alert("start");
+            $.ajax({
+                url: '/getGroupResult',
+                type: 'GET', //GET
+                async: true,    //或false,是否异步
+                timeout: 3000000,    //超时时间
+                dataType: 'json',    //返回的数据格式：json/xml/html/script/jsonp/text
+                /* beforeSend:function(xhr){
+                 console.log(xhr)
+                 console.log('发送前')
+                 },*/
+                data:{
+                    num:$('#touzie').val(),day:$('#touziqi').val(),userId:get_cookie("userId")
+                },
+
+                success: function (data, textStatus, jqXHR) {
+                    document.getElementById('b_content').innerHTML="";
+                    //alert("kkk");
+                    var json = eval(data);
+                    var d=json.pro;
+                    var c=json.sum+"";
+                    document.getElementById('sum').innerText=c;
+                    $.each(d, function (index, item) {
+                        var i="num"+index+"";
+                        var j="check"+index+"";
+                        var num=(json.num)[index]+"";
+                        var sss;
+
+                        $('#b_content').append($("<tr id='abc' style='margin: auto' ><td><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            d[index].id + "</b></td><td ><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            d[index].pinji + "</b></td><td ><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            d[index].shouyilv + "</b></td><td><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            d[index].qixian + "</b></td><td ><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            d[index].jine + "</b></td><td ><input type='checkbox' id='"+j+"' > </input></td><td><input  id='"+i+"' style='width: 40px' value='"+num+"' readonly='readonly'> </input></td></tr>"
+                        ))
+                        if(num!='0'){
+                            document.getElementById(j).setAttribute("checked","checked")
+                        }else{
+                        }
+
+                });
+
+                    //$('c_content')
+
+                },
+                error: function (xhr, textStatus) {
+                    alert("error");
+                    console.log('错误')
+                    console.log(xhr)
+                    console.log(textStatus)
+                    //window.location.href="404.html"
+                },
+                complete: function () {
+
+                }
+            })
+
+        }
+        function initList1() {
+            $.ajax({
+                url: '/showProduct',
+                type: 'GET', //GET
+                async: true,    //或false,是否异步
+                timeout: 5000,    //超时时间
+                dataType: 'json',    //返回的数据格式：json/xml/html/script/jsonp/text
+                /* beforeSend:function(xhr){
+                 console.log(xhr)
+                 console.log('发送前')
+                 },*/
+
+                success: function (data, textStatus, jqXHR) {
+                    var json = eval(data);
+
+                    $.each(json, function (index, item) {
+                        var i="num"+index+"";
+                        var j="check"+index+"";
+                        $('#b_content').append($("<tr id='abc' style='margin: auto' ><td><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            data[index].id + "</b></td><td ><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            data[index].pinji + "</b></td><td ><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            data[index].shouyilv + "</b></td><td><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            data[index].qixian + "</b></td><td ><b style='border-color: #0b0b0b;color: #fcf9ff'>" +
+                            data[index].jine + "</b></td><td ><input type='checkbox' id=j > </input></td><td><input type='text' id=i style='width: 40px'> </input></td></tr>"
+                        ))
+                    });
+
+                },
+                error: function (xhr, textStatus) {
+                    console.log('错误')
+                    console.log(xhr)
+                    console.log(textStatus)
+                    //window.location.href="404.html"
+                },
+                complete: function () {
+
+                }
+            })
+        }
+        function show() {
+            window.location.href='/index?sec=3';
+        }
+    </script>
+
+</head>
+<body onload="initList1()">
+<div id="top-image">
+    <div id="content" class="container center-block">
+        <div class="jumbotron">
+            <div class="container">
+                <h1>产品选择</h1>
+                <p>产品列表</p>
+                <div class="input-group input-group-lg" style="margin: auto"><span class="input-group-addon" id="sizing-addon1"><span
+                        class="glyphicon glyphicon-plus" aria-hidden="true"></span></span>
+                    <input id="touzie" type="text" class="form-control" placeholder="投资额" aria-describedby="sizing-addon1">
+                    <input id="touziqi" type="text" class="form-control" placeholder="投资期" aria-describedby="sizing-addon1">
+                    <span class="input-group-btn">
+          <button class="btn btn-default" type="button" onclick="showGroup()">寻 找</button>
+          </span></div>
+            </div>
+        </div>
+    </div>
+    <div class="tpl-content-wrapper" style="position: relative" >
+<div style="width: 670px;margin-left: auto;margin-right:auto;margin-bottom:0px;background-color: #0b0b0b">
+        <table width="100%" class="am-table am-table-compact am-text-nowrap tpl-table-black "
+               style="border-color: #000000">
+            <thead>
+            <tr class='gradeX' style='color: #ffffff;'> <td width='110px'>产品编号</td> <td width='110px'>产品评级</td> <td width='110px'>产品收益率</td> <td width='110px'>投资期限</td> <td width='110px'>投资金额</td><td width='110px'>选择</td><td width='110px'>份数</td></tr>
+        </table>
+</div>
+        <div class="am-scrollable-horizontal " style="background-color: #000000;overflow-y:auto;width:670px;height:300px;margin:auto;text-align:center;" >
+            <table width="100%" class="am-table am-table-compact am-text-nowrap tpl-table-black "
+                   id="example-r" style="border-color: #000000">
+<!--                <thead>
+                <tr class='gradeX' style='color: #ffffff;'> <td style="width:20%;">产品编号</td> <td style="width:20%;">产品评级</td> <td style="width:20%;">产品收益率</td> <td style="width:20%;">投资期限</td> <td style="width:20%;">投资金额</td></tr>
+                </thead>-->
+
+                <tbody id="b_content" >
+
+
+                <!-- more data -->
+                </tbody>
+            </table>
+
+        </div>
+
+        <div style="float: none;width:670px;margin:auto;background-color: #0b0b0b;text-align: center" >
+
+            <span  readonly="readonly"  style="text-align: center;color: #ffffff">投资收益</span>
+            <span id='sum' style="text-align: center;color: #ffffff;margin-left: 20px" ></span>
+            <input  readonly="readonly"  style="text-align: center;margin-left: 30px;" type="button" value="用户画像" onclick="show()"></input>
+            <!--<span id='huibao'></span>-->
+
+        </div>
+
+    </div>
+</div>
+</div>
+<!-- 内容区域 -->
+
+<script src="/search/js/jquery.min.js"></script>
+<script src="/search/js/ios-parallax.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#top-image').iosParallax({
+            movementFactor: 50
+        });
+    });
+</script>
+
+</body>
+</html>

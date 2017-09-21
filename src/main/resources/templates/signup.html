@@ -1,0 +1,341 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="author" content=""/>
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:site_name" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:image" content=""/>
+    <meta name="twitter:url" content=""/>
+    <meta name="twitter:card" content=""/>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="/login/css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="/login/css/icomoon.css">
+    <!-- Themify Icons-->
+    <link rel="stylesheet" href="/login/css/themify-icons.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="/login/css/bootstrap.css">
+
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="/login/css/magnific-popup.css">
+
+    <!-- Owl Carousel  -->
+    <link rel="stylesheet" href="/login/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/login/css/owl.theme.default.min.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="/login/css/style.css">
+
+    <!-- Modernizr JS -->
+    <script src="/login/js/modernizr-2.6.2.min.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
+    <script>
+        function register(userid,password){
+            $.ajax({
+                url:'/addUser',
+                type:'POST', //GET
+                async:true,    //或false,是否异步
+                data:{
+                    userName:userid,passWord:password
+                },
+                timeout:5000,    //超时时间
+                dataType:'json',    //返回的数据格式：json/xml/html/script/jsonp/text
+                /* beforeSend:function(xhr){
+                 console.log(xhr)
+                 console.log('发送前')
+                 },*/
+                success:function(data,textStatus,jqXHR){
+                    window.location.href="/loginU"
+
+                },
+                error:function(xhr,textStatus){
+                    console.log('错误')
+                    console.log(xhr)
+                    console.log(textStatus)
+                    //window.location.href="404.html"
+                    alert("aaa");
+                },
+                complete:function(){
+
+                }
+            })
+        }
+        function login(userid,passWord) {
+            $.ajax({
+                url:'/loginUser',
+                type:'GET', //GET
+                async:true,    //或false,是否异步
+                data:{
+                    userId:userid,password:passWord
+                },
+                timeout:5000,    //超时时间
+                dataType:'text',    //返回的数据格式：json/xml/html/script/jsonp/text
+                /* beforeSend:function(xhr){
+                 console.log(xhr)
+                 console.log('发送前')
+                 },*/
+                success:function(data,textStatus,jqXHR){
+                        if(data=='false'){
+
+                            window.location.href="/loginU"
+                        }else{
+                            var json=eval(data);
+
+                            var id=json[0].id+"";
+
+                            document.cookie="userId="+id;
+
+                            window.location.href="/index"
+                        }
+
+
+
+
+                },
+                error:function(xhr,textStatus){
+                    console.log('错误')
+                    console.log(xhr)
+                    console.log(textStatus)
+                    //window.location.href="404.html"
+                    alert("aaa");
+                },
+                complete:function(){
+
+                }
+            })
+        }
+
+    </script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="/login/js/respond.min.js"></script>
+
+    <![endif]-->
+
+</head>
+<body>
+
+
+<div id="page">
+
+
+    <div class="page-inner">
+
+
+        <header id="gtco-header" class="gtco-cover" role="banner" style="background-image: url(/login/images/img_3.jpg)">
+            <div class="overlay"></div>
+            <div class="gtco-container">
+                <div class="row">
+                    <div class="col-md-12 col-md-offset-0 text-left">
+
+
+                        <div class="row row-mt-15em">
+                            <div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
+                                <span class="intro-text-small">Welcome to SignUp</span>
+                                <h1>填写相关信息进行注册</h1>
+                            </div>
+                            <div class="col-md-4 col-md-push-1 animate-box" data-animate-effect="fadeInRight">
+                                <div class="form-wrap">
+                                    <div class="tab">
+                                        <ul class="tab-menu">
+                                            <li class="active gtco-forst"><a href="#" data-tab="login">Login</a></li>
+                                            <li class="gtco-second"><a href="#" data-tab="signup">Sign up</a></li>
+
+                                        </ul>
+                                        <div class="tab-content">
+                                            <div class="tab-content-inner" data-content="signup">
+                                                <form method="post">
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="username">Username or Email</label>
+                                                            <input type="text" class="form-control" id="username-sign" name="userName">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password">Password</label>
+                                                            <input type="password" class="form-control" id="password-sign" name="passWord">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">Repeat Password</label>
+                                                            <input type="password" class="form-control" id="password2">
+                                                        </div>
+                                                    </div>
+        <!--                                            <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">sex</label>
+                                                            <input type="text" class="form-control" id="sex">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">age</label>
+                                                            <input type="text" class="form-control" id="age">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">marry</label>
+                                                            <input type="text" class="form-control" id="marry">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">family</label>
+                                                            <input type="text" class="form-control" id="family">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">education</label>
+                                                            <input type="text" class="form-control" id="education">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">residence</label>
+                                                            <input type="text" class="form-control" id="residence">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">creditcard</label>
+                                                            <input type="text" class="form-control" id="creditcard">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">worklife</label>
+                                                            <input type="text" class="form-control" id="worklife">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">loan</label>
+                                                            <input type="text" class="form-control" id="loan">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">huankuan</label>
+                                                            <input type="text" class="form-control" id="huankuan">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">income</label>
+                                                            <input type="text" class="form-control" id="income">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">yongtu</label>
+                                                            <input type="text" class="form-control" id="yongtu">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">house</label>
+                                                            <input type="text" class="form-control" id="house">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">car</label>
+                                                            <input type="text" class="form-control" id="car">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password2">diyawu</label>
+                                                            <input type="text" class="form-control" id="diyawu">
+                                                        </div>
+                                                    </div>-->
+
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <input type="button" class="btn btn-primary"
+                                                                   value="Sign up" onclick="register($('#username-sign').val(),$('#password-sign').val())">
+                                                        </div>
+                                                    </div>
+                                                </form>
+                                            </div>
+
+                                            <div class="tab-content-inner active" data-content="login">
+                                                <form action="/loginUser">
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="username">Username or Email</label>
+                                                            <input type="text" class="form-control" id="userName" name="userId">
+                                                        </div>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <label for="password">Password</label>
+                                                            <input type="password" class="form-control" id="passWord" name="password">
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="row form-group">
+                                                        <div class="col-md-12">
+                                                            <input type="button" class="btn btn-primary" value="Login" onclick="login($('#userName').val(),$('#passWord').val())"/>
+                                                        </div>
+                                                    </div>
+                                                </form>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </header>
+
+
+        <div class="gototop js-top">
+            <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+        </div>
+
+        <!-- jQuery -->
+        <script src="/login/js/jquery.min.js"></script>
+        <!-- jQuery Easing -->
+        <script src="/login/js/jquery.easing.1.3.js"></script>
+        <!-- Bootstrap -->
+        <script src="/login/js/bootstrap.min.js"></script>
+        <!-- Waypoints -->
+        <script src="/login/js/jquery.waypoints.min.js"></script>
+        <!-- Carousel -->
+        <script src="/login/js/owl.carousel.min.js"></script>
+        <!-- countTo -->
+        <script src="/login/js/jquery.countTo.js"></script>
+        <!-- Magnific Popup -->
+        <script src="/login/js/jquery.magnific-popup.min.js"></script>
+        <script src="/login/js/magnific-popup-options.js"></script>
+        <!-- Main -->
+        <script src="/login/js/main.js"></script>
+    </div>
+</div>
+</body>
+</html>
+

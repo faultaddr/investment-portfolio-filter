@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.example.demo.entity.UserEntity" table="user" schema="invest">
+        <id name="id">
+            <column name="id" sql-type="int(11)"/>
+        </id>
+        <property name="userName">
+            <column name="userName" sql-type="int(11)"/>
+        </property>
+        <property name="passWord">
+            <column name="passWord" sql-type="varchar(20)" length="20" not-null="true"/>
+        </property>
+        <property name="role">
+            <column name="role" sql-type="varchar(2)" length="2" not-null="false"/>
+        </property>
+        <property name="sex">
+            <column name="sex" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="age">
+            <column name="age" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="marry">
+            <column name="marry" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="family">
+            <column name="family" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="education">
+            <column name="education" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="residence">
+            <column name="residence" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="creditcard">
+            <column name="creditcard" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="worklife">
+            <column name="worklife" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="loan">
+            <column name="loan" sql-type="double" precision="-1" not-null="false"/>
+        </property>
+        <property name="huankuan">
+            <column name="huankuan" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="income">
+            <column name="income" sql-type="double" precision="-1" not-null="false"/>
+        </property>
+        <property name="yongtu">
+            <column name="yongtu" sql-type="int(11)" not-null="false"/>
+        </property>
+        <property name="house">
+            <column name="house" sql-type="double" precision="-1" not-null="false"/>
+        </property>
+        <property name="car">
+            <column name="car" sql-type="double" precision="-1" not-null="false"/>
+        </property>
+        <property name="diyawu">
+            <column name="diyawu" sql-type="double" precision="-1" not-null="false"/>
+        </property>
+    </class>
+</hibernate-mapping>
